@@ -243,7 +243,12 @@ function playResult(ok){
     if(AC.state === 'suspended') AC.resume();
     window.__sndCount = (window.__sndCount || 0) + 1;
     if(ok){ tone(1318.5, 0, .35, 'sine', .10); tone(1760, .09, .45, 'sine', .08); }
-    else{ tone(233.1, 0, .3, 'triangle', .09); tone(196, .05, .38, 'triangle', .07); }
+    else{
+      /* 不正解：iPhoneの小型スピーカーでも聞こえる高さ（約390Hz→約310Hzの下降）にし、
+         倍音を重ねて音量も正解音並みに。雰囲気は柔らかく残念な感じに保つ */
+      tone(392, 0, .26, 'triangle', .11); tone(784, 0, .2, 'sine', .05);
+      tone(311.1, .14, .4, 'triangle', .11); tone(622.3, .14, .32, 'sine', .05);
+    }
   }catch(e){}
 }
 function renderSoundBtn(){
