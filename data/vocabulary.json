@@ -298,5 +298,6905 @@
     "translation": "資源",
     "example": "Water is an important natural resource.",
     "exampleTranslation": "水は大切な天然資源です。"
+  },
+  {
+    "id": "answer",
+    "term": "answer",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "答える、返事をする",
+    "translation": "答える",
+    "example": "Please answer my question.",
+    "exampleTranslation": "私の質問に答えてください。"
+  },
+  {
+    "id": "ask",
+    "term": "ask",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "たずねる、質問する",
+    "translation": "たずねる",
+    "example": "I want to ask you something.",
+    "exampleTranslation": "あなたに何かたずねたいことがあります。"
+  },
+  {
+    "id": "become",
+    "term": "become",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "〜になる",
+    "translation": "〜になる",
+    "example": "She wants to become a doctor.",
+    "exampleTranslation": "彼女は医者になりたいと思っています。"
+  },
+  {
+    "id": "begin",
+    "term": "begin",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "始める、始まる",
+    "translation": "始める",
+    "example": "The movie begins at seven.",
+    "exampleTranslation": "その映画は7時に始まります。"
+  },
+  {
+    "id": "believe",
+    "term": "believe",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "信じる",
+    "translation": "信じる",
+    "example": "I believe you.",
+    "exampleTranslation": "私はあなたを信じています。"
+  },
+  {
+    "id": "build",
+    "term": "build",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "建てる、築く",
+    "translation": "建てる",
+    "example": "They will build a new school here.",
+    "exampleTranslation": "彼らはここに新しい学校を建てるでしょう。"
+  },
+  {
+    "id": "buy",
+    "term": "buy",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "買う",
+    "translation": "買う",
+    "example": "I want to buy a new bag.",
+    "exampleTranslation": "私は新しいかばんを買いたいです。"
+  },
+  {
+    "id": "call",
+    "term": "call",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "電話をかける、呼ぶ、〜と呼ぶ",
+    "translation": "電話をかける",
+    "example": "I will call you tonight.",
+    "exampleTranslation": "今夜あなたに電話します。"
+  },
+  {
+    "id": "climb",
+    "term": "climb",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "登る、よじ登る",
+    "translation": "登る",
+    "example": "We climbed the mountain yesterday.",
+    "exampleTranslation": "私たちは昨日その山に登りました。"
+  },
+  {
+    "id": "cry",
+    "term": "cry",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "泣く、叫ぶ",
+    "translation": "泣く",
+    "example": "The baby is crying.",
+    "exampleTranslation": "その赤ちゃんは泣いています。"
+  },
+  {
+    "id": "cut",
+    "term": "cut",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "切る",
+    "translation": "切る",
+    "example": "She cut the cake into four pieces.",
+    "exampleTranslation": "彼女はそのケーキを4つに切りました。"
+  },
+  {
+    "id": "draw",
+    "term": "draw",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "（絵を）描く",
+    "translation": "描く",
+    "example": "He likes to draw pictures.",
+    "exampleTranslation": "彼は絵を描くのが好きです。"
+  },
+  {
+    "id": "drink",
+    "term": "drink",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "飲む",
+    "translation": "飲む",
+    "example": "I drink milk every morning.",
+    "exampleTranslation": "私は毎朝牛乳を飲みます。"
+  },
+  {
+    "id": "drive",
+    "term": "drive",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "運転する",
+    "translation": "運転する",
+    "example": "My father drives to work every day.",
+    "exampleTranslation": "私の父は毎日車で仕事に行きます。"
+  },
+  {
+    "id": "eat",
+    "term": "eat",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "食べる",
+    "translation": "食べる",
+    "example": "We eat breakfast at seven.",
+    "exampleTranslation": "私たちは7時に朝ごはんを食べます。"
+  },
+  {
+    "id": "enjoy",
+    "term": "enjoy",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "楽しむ",
+    "translation": "楽しむ",
+    "example": "I enjoyed the school trip.",
+    "exampleTranslation": "私は修学旅行を楽しみました。"
+  },
+  {
+    "id": "enter",
+    "term": "enter",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "入る、入学する",
+    "translation": "入る",
+    "example": "He entered the room quietly.",
+    "exampleTranslation": "彼は静かに部屋に入りました。"
+  },
+  {
+    "id": "fall",
+    "term": "fall",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "落ちる、倒れる",
+    "translation": "落ちる",
+    "example": "Leaves fall in autumn.",
+    "exampleTranslation": "秋には葉が落ちます。"
+  },
+  {
+    "id": "find",
+    "term": "find",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "見つける、〜だと分かる",
+    "translation": "見つける",
+    "example": "I can't find my key.",
+    "exampleTranslation": "鍵が見つかりません。"
+  },
+  {
+    "id": "fly",
+    "term": "fly",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "飛ぶ、飛行機で行く",
+    "translation": "飛ぶ",
+    "example": "Birds fly in the sky.",
+    "exampleTranslation": "鳥は空を飛びます。"
+  },
+  {
+    "id": "get",
+    "term": "get",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "得る、手に入れる、〜になる、着く",
+    "translation": "得る",
+    "example": "I got a letter from my friend.",
+    "exampleTranslation": "私は友達から手紙をもらいました。"
+  },
+  {
+    "id": "give",
+    "term": "give",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "与える、あげる",
+    "translation": "与える",
+    "example": "Please give me some water.",
+    "exampleTranslation": "水を少しください。"
+  },
+  {
+    "id": "go",
+    "term": "go",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "行く",
+    "translation": "行く",
+    "example": "I go to school by bus.",
+    "exampleTranslation": "私はバスで学校へ行きます。"
+  },
+  {
+    "id": "hear",
+    "term": "hear",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "聞こえる、耳にする",
+    "translation": "聞こえる",
+    "example": "I can hear music from the next room.",
+    "exampleTranslation": "隣の部屋から音楽が聞こえます。"
+  },
+  {
+    "id": "help",
+    "term": "help",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "助ける、手伝う",
+    "translation": "助ける",
+    "example": "Can you help me?",
+    "exampleTranslation": "手伝ってくれますか。"
+  },
+  {
+    "id": "hold",
+    "term": "hold",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "持つ、抱える、開く（会などを）",
+    "translation": "持つ",
+    "example": "She is holding a baby.",
+    "exampleTranslation": "彼女は赤ちゃんを抱いています。"
+  },
+  {
+    "id": "jump",
+    "term": "jump",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "跳ぶ、ジャンプする",
+    "translation": "跳ぶ",
+    "example": "The cat jumped over the fence.",
+    "exampleTranslation": "その猫はフェンスを跳び越えました。"
+  },
+  {
+    "id": "keep",
+    "term": "keep",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "持ち続ける、保つ、〜し続ける",
+    "translation": "保つ",
+    "example": "Please keep quiet.",
+    "exampleTranslation": "静かにしてください。"
+  },
+  {
+    "id": "laugh",
+    "term": "laugh",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "笑う",
+    "translation": "笑う",
+    "example": "The story made us laugh.",
+    "exampleTranslation": "その話は私たちを笑わせました。"
+  },
+  {
+    "id": "learn",
+    "term": "learn",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "学ぶ、覚える",
+    "translation": "学ぶ",
+    "example": "We learn English at school.",
+    "exampleTranslation": "私たちは学校で英語を学びます。"
+  },
+  {
+    "id": "lend",
+    "term": "lend",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "貸す",
+    "translation": "貸す",
+    "example": "Can you lend me your pen?",
+    "exampleTranslation": "ペンを貸してくれますか。"
+  },
+  {
+    "id": "like",
+    "term": "like",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "好きである、〜したい",
+    "translation": "好きである",
+    "example": "I like apples.",
+    "exampleTranslation": "私はりんごが好きです。"
+  },
+  {
+    "id": "live",
+    "term": "live",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "住む、生きる",
+    "translation": "住む",
+    "example": "I live in Tokyo.",
+    "exampleTranslation": "私は東京に住んでいます。"
+  },
+  {
+    "id": "look",
+    "term": "look",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "見る、〜に見える",
+    "translation": "見る",
+    "example": "Look at the picture.",
+    "exampleTranslation": "その絵を見てください。"
+  },
+  {
+    "id": "lose",
+    "term": "lose",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "なくす、負ける",
+    "translation": "なくす",
+    "example": "I lost my wallet yesterday.",
+    "exampleTranslation": "私は昨日財布をなくしました。"
+  },
+  {
+    "id": "make",
+    "term": "make",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "作る、〜させる",
+    "translation": "作る",
+    "example": "My mother makes delicious cakes.",
+    "exampleTranslation": "私の母はおいしいケーキを作ります。"
+  },
+  {
+    "id": "meet",
+    "term": "meet",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "会う、出会う",
+    "translation": "会う",
+    "example": "Let's meet at the station at nine.",
+    "exampleTranslation": "9時に駅で会いましょう。"
+  },
+  {
+    "id": "miss",
+    "term": "miss",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "乗り遅れる、逃す、寂しく思う",
+    "translation": "乗り遅れる",
+    "example": "I missed the train this morning.",
+    "exampleTranslation": "私は今朝、電車に乗り遅れました。"
+  },
+  {
+    "id": "need",
+    "term": "need",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "必要とする",
+    "translation": "必要とする",
+    "example": "I need your help.",
+    "exampleTranslation": "あなたの助けが必要です。"
+  },
+  {
+    "id": "open",
+    "term": "open",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "開ける、開く",
+    "translation": "開ける",
+    "example": "Please open the window.",
+    "exampleTranslation": "窓を開けてください。"
+  },
+  {
+    "id": "pay",
+    "term": "pay",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "払う",
+    "translation": "払う",
+    "example": "I paid 500 yen for the book.",
+    "exampleTranslation": "私はその本に500円払いました。"
+  },
+  {
+    "id": "play",
+    "term": "play",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "遊ぶ、（スポーツ・楽器を）する・弾く",
+    "translation": "遊ぶ",
+    "example": "Children are playing in the park.",
+    "exampleTranslation": "子どもたちは公園で遊んでいます。"
+  },
+  {
+    "id": "put",
+    "term": "put",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "置く",
+    "translation": "置く",
+    "example": "Put the book on the desk.",
+    "exampleTranslation": "その本を机の上に置いてください。"
+  },
+  {
+    "id": "read",
+    "term": "read",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "読む",
+    "translation": "読む",
+    "example": "I read a book every night.",
+    "exampleTranslation": "私は毎晩本を読みます。"
+  },
+  {
+    "id": "run",
+    "term": "run",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "走る",
+    "translation": "走る",
+    "example": "He runs in the park every morning.",
+    "exampleTranslation": "彼は毎朝公園を走ります。"
+  },
+  {
+    "id": "say",
+    "term": "say",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "言う",
+    "translation": "言う",
+    "example": "She said hello to me.",
+    "exampleTranslation": "彼女は私にあいさつしました。"
+  },
+  {
+    "id": "see",
+    "term": "see",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "見る、見える、会う",
+    "translation": "見る",
+    "example": "I can see Mt. Fuji from here.",
+    "exampleTranslation": "ここから富士山が見えます。"
+  },
+  {
+    "id": "sell",
+    "term": "sell",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "売る",
+    "translation": "売る",
+    "example": "This shop sells flowers.",
+    "exampleTranslation": "この店は花を売っています。"
+  },
+  {
+    "id": "show",
+    "term": "show",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "見せる、示す",
+    "translation": "見せる",
+    "example": "Please show me your ticket.",
+    "exampleTranslation": "切符を見せてください。"
+  },
+  {
+    "id": "sit",
+    "term": "sit",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "座る",
+    "translation": "座る",
+    "example": "Please sit down.",
+    "exampleTranslation": "座ってください。"
+  },
+  {
+    "id": "sleep",
+    "term": "sleep",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "眠る",
+    "translation": "眠る",
+    "example": "I sleep for eight hours every night.",
+    "exampleTranslation": "私は毎晩8時間眠ります。"
+  },
+  {
+    "id": "speak",
+    "term": "speak",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "話す",
+    "translation": "話す",
+    "example": "She speaks English well.",
+    "exampleTranslation": "彼女は英語を上手に話します。"
+  },
+  {
+    "id": "stand",
+    "term": "stand",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "立つ",
+    "translation": "立つ",
+    "example": "He is standing at the door.",
+    "exampleTranslation": "彼はドアのところに立っています。"
+  },
+  {
+    "id": "start",
+    "term": "start",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "始める、始まる、出発する",
+    "translation": "始める",
+    "example": "Let's start the game.",
+    "exampleTranslation": "ゲームを始めましょう。"
+  },
+  {
+    "id": "stop",
+    "term": "stop",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "止める、止まる",
+    "translation": "止める",
+    "example": "The bus stopped at the corner.",
+    "exampleTranslation": "バスは角で止まりました。"
+  },
+  {
+    "id": "study",
+    "term": "study",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "勉強する、研究する",
+    "translation": "勉強する",
+    "example": "I study math every day.",
+    "exampleTranslation": "私は毎日数学を勉強します。"
+  },
+  {
+    "id": "swim",
+    "term": "swim",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "泳ぐ",
+    "translation": "泳ぐ",
+    "example": "Fish swim in the river.",
+    "exampleTranslation": "魚は川を泳ぎます。"
+  },
+  {
+    "id": "take",
+    "term": "take",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "取る、連れていく、（乗り物に）乗る、かかる",
+    "translation": "取る",
+    "example": "Take this medicine after lunch.",
+    "exampleTranslation": "昼食の後にこの薬を飲んでください。"
+  },
+  {
+    "id": "thank",
+    "term": "thank",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "感謝する",
+    "translation": "感謝する",
+    "example": "Thank you for your help.",
+    "exampleTranslation": "手伝ってくれてありがとう。"
+  },
+  {
+    "id": "think",
+    "term": "think",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "思う、考える",
+    "translation": "思う",
+    "example": "I think it will rain tomorrow.",
+    "exampleTranslation": "明日は雨が降ると思います。"
+  },
+  {
+    "id": "throw",
+    "term": "throw",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "投げる",
+    "translation": "投げる",
+    "example": "Throw the ball to me.",
+    "exampleTranslation": "私にボールを投げてください。"
+  },
+  {
+    "id": "try",
+    "term": "try",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "試す、〜しようとする",
+    "translation": "試す",
+    "example": "Please try this cake.",
+    "exampleTranslation": "このケーキを試してみてください。"
+  },
+  {
+    "id": "understand",
+    "term": "understand",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "理解する、分かる",
+    "translation": "理解する",
+    "example": "I understand your feelings.",
+    "exampleTranslation": "あなたの気持ちは分かります。"
+  },
+  {
+    "id": "wake",
+    "term": "wake",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "目を覚ます、起こす",
+    "translation": "目を覚ます",
+    "example": "I wake up at six every morning.",
+    "exampleTranslation": "私は毎朝6時に目を覚まします。"
+  },
+  {
+    "id": "want",
+    "term": "want",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "欲しい、〜したい",
+    "translation": "欲しい",
+    "example": "I want a new bicycle.",
+    "exampleTranslation": "私は新しい自転車が欲しいです。"
+  },
+  {
+    "id": "wash",
+    "term": "wash",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "洗う",
+    "translation": "洗う",
+    "example": "Wash your hands before lunch.",
+    "exampleTranslation": "昼食の前に手を洗ってください。"
+  },
+  {
+    "id": "watch",
+    "term": "watch",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "（注意して）見る",
+    "translation": "見る",
+    "example": "We watched a soccer game on TV.",
+    "exampleTranslation": "私たちはテレビでサッカーの試合を見ました。"
+  },
+  {
+    "id": "win",
+    "term": "win",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "勝つ",
+    "translation": "勝つ",
+    "example": "Our team won the game.",
+    "exampleTranslation": "私たちのチームはその試合に勝ちました。"
+  },
+  {
+    "id": "work",
+    "term": "work",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "働く、仕事をする",
+    "translation": "働く",
+    "example": "My sister works at a hospital.",
+    "exampleTranslation": "私の姉は病院で働いています。"
+  },
+  {
+    "id": "write",
+    "term": "write",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "書く",
+    "translation": "書く",
+    "example": "I wrote a letter to my friend.",
+    "exampleTranslation": "私は友達に手紙を書きました。"
+  },
+  {
+    "id": "use",
+    "term": "use",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "使う",
+    "translation": "使う",
+    "example": "May I use your pen?",
+    "exampleTranslation": "あなたのペンを使ってもいいですか。"
+  },
+  {
+    "id": "animal",
+    "term": "animal",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "動物",
+    "translation": "動物",
+    "example": "I saw many animals at the zoo.",
+    "exampleTranslation": "私は動物園でたくさんの動物を見ました。"
+  },
+  {
+    "id": "baby",
+    "term": "baby",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "赤ちゃん、幼児",
+    "translation": "赤ちゃん",
+    "example": "The baby is sleeping now.",
+    "exampleTranslation": "赤ちゃんは今眠っています。"
+  },
+  {
+    "id": "bag",
+    "term": "bag",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "かばん、袋",
+    "translation": "かばん、袋",
+    "example": "She put her books in her bag.",
+    "exampleTranslation": "彼女はかばんに本を入れました。"
+  },
+  {
+    "id": "ball",
+    "term": "ball",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "ボール、球",
+    "translation": "ボール",
+    "example": "He kicked the ball into the goal.",
+    "exampleTranslation": "彼はボールをゴールに蹴り込みました。"
+  },
+  {
+    "id": "bank",
+    "term": "bank",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "銀行",
+    "translation": "銀行",
+    "example": "My father works at a bank.",
+    "exampleTranslation": "私の父は銀行で働いています。"
+  },
+  {
+    "id": "bear",
+    "term": "bear",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "クマ（動物）",
+    "translation": "クマ",
+    "example": "A big bear lives in the forest.",
+    "exampleTranslation": "大きなクマが森に住んでいます。"
+  },
+  {
+    "id": "bed",
+    "term": "bed",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "ベッド、寝床",
+    "translation": "ベッド",
+    "example": "I go to bed at ten every night.",
+    "exampleTranslation": "私は毎晩10時に寝ます。"
+  },
+  {
+    "id": "bird",
+    "term": "bird",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "鳥",
+    "translation": "鳥",
+    "example": "Many birds are singing in the park.",
+    "exampleTranslation": "公園でたくさんの鳥が鳴いています。"
+  },
+  {
+    "id": "birthday",
+    "term": "birthday",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "誕生日",
+    "translation": "誕生日",
+    "example": "Today is my mother's birthday.",
+    "exampleTranslation": "今日は母の誕生日です。"
+  },
+  {
+    "id": "book",
+    "term": "book",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "本",
+    "translation": "本",
+    "example": "This book is very interesting.",
+    "exampleTranslation": "この本はとても面白いです。"
+  },
+  {
+    "id": "box",
+    "term": "box",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "箱",
+    "translation": "箱",
+    "example": "There are some apples in the box.",
+    "exampleTranslation": "箱の中にリンゴが数個あります。"
+  },
+  {
+    "id": "boy",
+    "term": "boy",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "男の子、少年",
+    "translation": "男の子",
+    "example": "The boy is playing soccer.",
+    "exampleTranslation": "その男の子はサッカーをしています。"
+  },
+  {
+    "id": "bread",
+    "term": "bread",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "パン",
+    "translation": "パン",
+    "example": "I eat bread for breakfast.",
+    "exampleTranslation": "私は朝食にパンを食べます。"
+  },
+  {
+    "id": "breakfast",
+    "term": "breakfast",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "朝食",
+    "translation": "朝食",
+    "example": "Breakfast is ready.",
+    "exampleTranslation": "朝食の用意ができました。"
+  },
+  {
+    "id": "bus",
+    "term": "bus",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "バス",
+    "translation": "バス",
+    "example": "We go to school by bus.",
+    "exampleTranslation": "私たちはバスで学校へ行きます。"
+  },
+  {
+    "id": "car",
+    "term": "car",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "車、自動車",
+    "translation": "車",
+    "example": "My uncle has a new car.",
+    "exampleTranslation": "私のおじは新しい車を持っています。"
+  },
+  {
+    "id": "cat",
+    "term": "cat",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "猫",
+    "translation": "猫",
+    "example": "The cat is under the table.",
+    "exampleTranslation": "猫はテーブルの下にいます。"
+  },
+  {
+    "id": "chair",
+    "term": "chair",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "いす",
+    "translation": "いす",
+    "example": "Please sit on this chair.",
+    "exampleTranslation": "このいすに座ってください。"
+  },
+  {
+    "id": "city",
+    "term": "city",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "市、都市",
+    "translation": "市、都市",
+    "example": "Tokyo is a big city.",
+    "exampleTranslation": "東京は大きな都市です。"
+  },
+  {
+    "id": "class",
+    "term": "class",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "授業、クラス、学級",
+    "translation": "授業、クラス",
+    "example": "Our English class starts at nine.",
+    "exampleTranslation": "私たちの英語の授業は9時に始まります。"
+  },
+  {
+    "id": "club",
+    "term": "club",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "部活動、クラブ",
+    "translation": "部活動、クラブ",
+    "example": "I am in the tennis club.",
+    "exampleTranslation": "私はテニス部に入っています。"
+  },
+  {
+    "id": "cold",
+    "term": "cold",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "寒い、冷たい；（名詞で）風邪",
+    "translation": "寒い、冷たい",
+    "example": "It is very cold today.",
+    "exampleTranslation": "今日はとても寒いです。"
+  },
+  {
+    "id": "color",
+    "term": "color",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "色",
+    "translation": "色",
+    "example": "What is your favorite color?",
+    "exampleTranslation": "あなたの好きな色は何ですか。"
+  },
+  {
+    "id": "computer",
+    "term": "computer",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "コンピュータ",
+    "translation": "コンピュータ",
+    "example": "He uses a computer every day.",
+    "exampleTranslation": "彼は毎日コンピュータを使います。"
+  },
+  {
+    "id": "country",
+    "term": "country",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "国",
+    "translation": "国",
+    "example": "Japan is an island country.",
+    "exampleTranslation": "日本は島国です。"
+  },
+  {
+    "id": "day",
+    "term": "day",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "日、1日、昼間",
+    "translation": "日、1日",
+    "example": "Yesterday was a beautiful day.",
+    "exampleTranslation": "昨日はすばらしい日でした。"
+  },
+  {
+    "id": "desk",
+    "term": "desk",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "机",
+    "translation": "机",
+    "example": "There is a book on my desk.",
+    "exampleTranslation": "私の机の上に本があります。"
+  },
+  {
+    "id": "dinner",
+    "term": "dinner",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "夕食",
+    "translation": "夕食",
+    "example": "We had fish for dinner.",
+    "exampleTranslation": "私たちは夕食に魚を食べました。"
+  },
+  {
+    "id": "doctor",
+    "term": "doctor",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "医者",
+    "translation": "医者",
+    "example": "You should see a doctor.",
+    "exampleTranslation": "医者に診てもらうべきです。"
+  },
+  {
+    "id": "dog",
+    "term": "dog",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "犬",
+    "translation": "犬",
+    "example": "The dog is running in the park.",
+    "exampleTranslation": "犬が公園で走っています。"
+  },
+  {
+    "id": "door",
+    "term": "door",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "ドア、戸",
+    "translation": "ドア",
+    "example": "Please close the door.",
+    "exampleTranslation": "ドアを閉めてください。"
+  },
+  {
+    "id": "dream",
+    "term": "dream",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "夢",
+    "translation": "夢",
+    "example": "My dream is to become a teacher.",
+    "exampleTranslation": "私の夢は教師になることです。"
+  },
+  {
+    "id": "egg",
+    "term": "egg",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "卵",
+    "translation": "卵",
+    "example": "I had an egg for breakfast.",
+    "exampleTranslation": "私は朝食に卵を食べました。"
+  },
+  {
+    "id": "exam",
+    "term": "exam",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "試験",
+    "translation": "試験",
+    "example": "We have an English exam tomorrow.",
+    "exampleTranslation": "明日は英語の試験があります。"
+  },
+  {
+    "id": "example",
+    "term": "example",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "例、実例",
+    "translation": "例",
+    "example": "Can you give me an example?",
+    "exampleTranslation": "例を挙げてもらえますか。"
+  },
+  {
+    "id": "face",
+    "term": "face",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "顔",
+    "translation": "顔",
+    "example": "She has a kind face.",
+    "exampleTranslation": "彼女は優しい顔をしています。"
+  },
+  {
+    "id": "father",
+    "term": "father",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "父",
+    "translation": "父",
+    "example": "My father is a doctor.",
+    "exampleTranslation": "私の父は医者です。"
+  },
+  {
+    "id": "fish",
+    "term": "fish",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "魚",
+    "translation": "魚",
+    "example": "There are many fish in this river.",
+    "exampleTranslation": "この川にはたくさんの魚がいます。"
+  },
+  {
+    "id": "food",
+    "term": "food",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "食べ物、食物",
+    "translation": "食べ物",
+    "example": "Japanese food is delicious.",
+    "exampleTranslation": "日本の食べ物はおいしいです。"
+  },
+  {
+    "id": "friend",
+    "term": "friend",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "友達、友人",
+    "translation": "友達",
+    "example": "She is my best friend.",
+    "exampleTranslation": "彼女は私の親友です。"
+  },
+  {
+    "id": "game",
+    "term": "game",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "試合、ゲーム",
+    "translation": "試合、ゲーム",
+    "example": "The game starts at three.",
+    "exampleTranslation": "試合は3時に始まります。"
+  },
+  {
+    "id": "girl",
+    "term": "girl",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "女の子、少女",
+    "translation": "女の子",
+    "example": "The girl is reading a book.",
+    "exampleTranslation": "その女の子は本を読んでいます。"
+  },
+  {
+    "id": "glass",
+    "term": "glass",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "ガラス、コップ",
+    "translation": "ガラス、コップ",
+    "example": "May I have a glass of water?",
+    "exampleTranslation": "水を1杯いただけますか。"
+  },
+  {
+    "id": "hand",
+    "term": "hand",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "手",
+    "translation": "手",
+    "example": "He raised his hand.",
+    "exampleTranslation": "彼は手を挙げました。"
+  },
+  {
+    "id": "hat",
+    "term": "hat",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "帽子",
+    "translation": "帽子",
+    "example": "She is wearing a red hat.",
+    "exampleTranslation": "彼女は赤い帽子をかぶっています。"
+  },
+  {
+    "id": "head",
+    "term": "head",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "頭",
+    "translation": "頭",
+    "example": "He hit his head on the door.",
+    "exampleTranslation": "彼はドアに頭をぶつけました。"
+  },
+  {
+    "id": "home",
+    "term": "home",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "家、家庭",
+    "translation": "家",
+    "example": "I went home after school.",
+    "exampleTranslation": "放課後、家に帰りました。"
+  },
+  {
+    "id": "homework",
+    "term": "homework",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "宿題",
+    "translation": "宿題",
+    "example": "I have a lot of homework today.",
+    "exampleTranslation": "今日は宿題がたくさんあります。"
+  },
+  {
+    "id": "horse",
+    "term": "horse",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "馬",
+    "translation": "馬",
+    "example": "The horse can run fast.",
+    "exampleTranslation": "その馬は速く走ることができます。"
+  },
+  {
+    "id": "hospital",
+    "term": "hospital",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "病院",
+    "translation": "病院",
+    "example": "My grandmother is in the hospital.",
+    "exampleTranslation": "祖母は病院に入院しています。"
+  },
+  {
+    "id": "hotel",
+    "term": "hotel",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "ホテル",
+    "translation": "ホテル",
+    "example": "We stayed at a hotel near the station.",
+    "exampleTranslation": "私たちは駅の近くのホテルに泊まりました。"
+  },
+  {
+    "id": "house",
+    "term": "house",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "家",
+    "translation": "家",
+    "example": "Their house is near the school.",
+    "exampleTranslation": "彼らの家は学校の近くにあります。"
+  },
+  {
+    "id": "idea",
+    "term": "idea",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "考え、アイデア",
+    "translation": "考え、アイデア",
+    "example": "That's a great idea!",
+    "exampleTranslation": "それはすばらしい考えです！"
+  },
+  {
+    "id": "job",
+    "term": "job",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "仕事、職業",
+    "translation": "仕事",
+    "example": "My sister found a new job.",
+    "exampleTranslation": "姉は新しい仕事を見つけました。"
+  },
+  {
+    "id": "key",
+    "term": "key",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "鍵、キー",
+    "translation": "鍵",
+    "example": "I lost my house key.",
+    "exampleTranslation": "家の鍵をなくしました。"
+  },
+  {
+    "id": "lesson",
+    "term": "lesson",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "授業、レッスン",
+    "translation": "授業",
+    "example": "Today's lesson was interesting.",
+    "exampleTranslation": "今日の授業は面白かったです。"
+  },
+  {
+    "id": "man",
+    "term": "man",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "男の人、男性",
+    "translation": "男の人",
+    "example": "That man is my teacher.",
+    "exampleTranslation": "あの男の人は私の先生です。"
+  },
+  {
+    "id": "map",
+    "term": "map",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "地図",
+    "translation": "地図",
+    "example": "Let's look at the map.",
+    "exampleTranslation": "地図を見ましょう。"
+  },
+  {
+    "id": "milk",
+    "term": "milk",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "牛乳、ミルク",
+    "translation": "牛乳",
+    "example": "I drink milk every morning.",
+    "exampleTranslation": "私は毎朝牛乳を飲みます。"
+  },
+  {
+    "id": "money",
+    "term": "money",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "お金",
+    "translation": "お金",
+    "example": "He doesn't have much money.",
+    "exampleTranslation": "彼はあまりお金を持っていません。"
+  },
+  {
+    "id": "morning",
+    "term": "morning",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "朝、午前",
+    "translation": "朝",
+    "example": "I get up at six in the morning.",
+    "exampleTranslation": "私は朝6時に起きます。"
+  },
+  {
+    "id": "mother",
+    "term": "mother",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "母",
+    "translation": "母",
+    "example": "My mother is a good cook.",
+    "exampleTranslation": "私の母は料理が上手です。"
+  },
+  {
+    "id": "movie",
+    "term": "movie",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "映画",
+    "translation": "映画",
+    "example": "We watched a movie last night.",
+    "exampleTranslation": "昨夜、映画を見ました。"
+  },
+  {
+    "id": "music",
+    "term": "music",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "音楽",
+    "translation": "音楽",
+    "example": "I listen to music every day.",
+    "exampleTranslation": "私は毎日音楽を聞きます。"
+  },
+  {
+    "id": "name",
+    "term": "name",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "名前",
+    "translation": "名前",
+    "example": "What is your name?",
+    "exampleTranslation": "あなたの名前は何ですか。"
+  },
+  {
+    "id": "night",
+    "term": "night",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "夜",
+    "translation": "夜",
+    "example": "It was cold last night.",
+    "exampleTranslation": "昨夜は寒かったです。"
+  },
+  {
+    "id": "park",
+    "term": "park",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "公園",
+    "translation": "公園",
+    "example": "Children are playing in the park.",
+    "exampleTranslation": "子どもたちが公園で遊んでいます。"
+  },
+  {
+    "id": "pen",
+    "term": "pen",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "ペン",
+    "translation": "ペン",
+    "example": "May I use your pen?",
+    "exampleTranslation": "あなたのペンを使ってもいいですか。"
+  },
+  {
+    "id": "pencil",
+    "term": "pencil",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "鉛筆",
+    "translation": "鉛筆",
+    "example": "I write with a pencil.",
+    "exampleTranslation": "私は鉛筆で書きます。"
+  },
+  {
+    "id": "people",
+    "term": "people",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "人々、人たち",
+    "translation": "人々",
+    "example": "Many people visited the museum.",
+    "exampleTranslation": "多くの人々が博物館を訪れました。"
+  },
+  {
+    "id": "picture",
+    "term": "picture",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "絵、写真",
+    "translation": "絵、写真",
+    "example": "She took a picture of the mountain.",
+    "exampleTranslation": "彼女は山の写真を撮りました。"
+  },
+  {
+    "id": "question",
+    "term": "question",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "質問、問題",
+    "translation": "質問",
+    "example": "May I ask a question?",
+    "exampleTranslation": "質問してもいいですか。"
+  },
+  {
+    "id": "rain",
+    "term": "rain",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "雨",
+    "translation": "雨",
+    "example": "We had a lot of rain yesterday.",
+    "exampleTranslation": "昨日は雨がたくさん降りました。"
+  },
+  {
+    "id": "restaurant",
+    "term": "restaurant",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "レストラン、食堂",
+    "translation": "レストラン",
+    "example": "We had lunch at a Chinese restaurant.",
+    "exampleTranslation": "私たちは中華レストランで昼食を食べました。"
+  },
+  {
+    "id": "room",
+    "term": "room",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "部屋",
+    "translation": "部屋",
+    "example": "My room is on the second floor.",
+    "exampleTranslation": "私の部屋は2階にあります。"
+  },
+  {
+    "id": "school",
+    "term": "school",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "学校",
+    "translation": "学校",
+    "example": "Our school has 500 students.",
+    "exampleTranslation": "私たちの学校には500人の生徒がいます。"
+  },
+  {
+    "id": "sea",
+    "term": "sea",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "海",
+    "translation": "海",
+    "example": "We swam in the sea.",
+    "exampleTranslation": "私たちは海で泳ぎました。"
+  },
+  {
+    "id": "snow",
+    "term": "snow",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "雪",
+    "translation": "雪",
+    "example": "We had snow last winter.",
+    "exampleTranslation": "去年の冬は雪が降りました。"
+  },
+  {
+    "id": "soccer",
+    "term": "soccer",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "サッカー",
+    "translation": "サッカー",
+    "example": "Soccer is popular in Japan.",
+    "exampleTranslation": "サッカーは日本で人気があります。"
+  },
+  {
+    "id": "song",
+    "term": "song",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "歌",
+    "translation": "歌",
+    "example": "She sang a beautiful song.",
+    "exampleTranslation": "彼女は美しい歌を歌いました。"
+  },
+  {
+    "id": "sport",
+    "term": "sport",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "スポーツ、運動",
+    "translation": "スポーツ",
+    "example": "Baseball is my favorite sport.",
+    "exampleTranslation": "野球は私の好きなスポーツです。"
+  },
+  {
+    "id": "station",
+    "term": "station",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "駅",
+    "translation": "駅",
+    "example": "The station is five minutes from here.",
+    "exampleTranslation": "駅はここから5分です。"
+  },
+  {
+    "id": "story",
+    "term": "story",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "物語、話",
+    "translation": "物語、話",
+    "example": "My grandfather told me an interesting story.",
+    "exampleTranslation": "祖父が面白い話をしてくれました。"
+  },
+  {
+    "id": "student",
+    "term": "student",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "生徒、学生",
+    "translation": "生徒、学生",
+    "example": "She is a junior high school student.",
+    "exampleTranslation": "彼女は中学生です。"
+  },
+  {
+    "id": "table",
+    "term": "table",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "テーブル、机",
+    "translation": "テーブル",
+    "example": "The cat is on the table.",
+    "exampleTranslation": "猫はテーブルの上にいます。"
+  },
+  {
+    "id": "teacher",
+    "term": "teacher",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "先生、教師",
+    "translation": "先生",
+    "example": "Our English teacher is from Canada.",
+    "exampleTranslation": "私たちの英語の先生はカナダ出身です。"
+  },
+  {
+    "id": "team",
+    "term": "team",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "チーム、班",
+    "translation": "チーム",
+    "example": "Our team won the game.",
+    "exampleTranslation": "私たちのチームが試合に勝ちました。"
+  },
+  {
+    "id": "tennis",
+    "term": "tennis",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "テニス",
+    "translation": "テニス",
+    "example": "I play tennis on Sundays.",
+    "exampleTranslation": "私は日曜日にテニスをします。"
+  },
+  {
+    "id": "test",
+    "term": "test",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "テスト、小テスト",
+    "translation": "テスト",
+    "example": "We have a math test today.",
+    "exampleTranslation": "今日は数学のテストがあります。"
+  },
+  {
+    "id": "time",
+    "term": "time",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "時間、時、回",
+    "translation": "時間、時",
+    "example": "What time is it now?",
+    "exampleTranslation": "今何時ですか。"
+  },
+  {
+    "id": "today",
+    "term": "today",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "今日（は）、今日という日",
+    "translation": "今日",
+    "example": "Today is a sunny day.",
+    "exampleTranslation": "今日は晴れた日です。"
+  },
+  {
+    "id": "tomorrow",
+    "term": "tomorrow",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "明日（は）、明日という日",
+    "translation": "明日",
+    "example": "Tomorrow is my birthday.",
+    "exampleTranslation": "明日は私の誕生日です。"
+  },
+  {
+    "id": "town",
+    "term": "town",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "町",
+    "translation": "町",
+    "example": "I live in a small town.",
+    "exampleTranslation": "私は小さな町に住んでいます。"
+  },
+  {
+    "id": "train",
+    "term": "train",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "電車、列車",
+    "translation": "電車",
+    "example": "We went to Kyoto by train.",
+    "exampleTranslation": "私たちは電車で京都へ行きました。"
+  },
+  {
+    "id": "tree",
+    "term": "tree",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "木、樹木",
+    "translation": "木",
+    "example": "There is a big tree in our garden.",
+    "exampleTranslation": "庭に大きな木があります。"
+  },
+  {
+    "id": "trip",
+    "term": "trip",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "旅行",
+    "translation": "旅行",
+    "example": "We enjoyed our trip to Hokkaido.",
+    "exampleTranslation": "北海道への旅行を楽しみました。"
+  },
+  {
+    "id": "village",
+    "term": "village",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "村",
+    "translation": "村",
+    "example": "My grandparents live in a small village.",
+    "exampleTranslation": "祖父母は小さな村に住んでいます。"
+  },
+  {
+    "id": "water",
+    "term": "water",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "水",
+    "translation": "水",
+    "example": "Please give me some water.",
+    "exampleTranslation": "水をください。"
+  },
+  {
+    "id": "week",
+    "term": "week",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "週、週間",
+    "translation": "週",
+    "example": "I play soccer twice a week.",
+    "exampleTranslation": "私は週に2回サッカーをします。"
+  },
+  {
+    "id": "window",
+    "term": "window",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "窓",
+    "translation": "窓",
+    "example": "Please open the window.",
+    "exampleTranslation": "窓を開けてください。"
+  },
+  {
+    "id": "woman",
+    "term": "woman",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "女の人、女性",
+    "translation": "女の人、女性",
+    "example": "That woman is a famous singer.",
+    "exampleTranslation": "あの女性は有名な歌手です。"
+  },
+  {
+    "id": "word",
+    "term": "word",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "単語、言葉",
+    "translation": "単語、言葉",
+    "example": "I don't know the meaning of this word.",
+    "exampleTranslation": "この単語の意味が分かりません。"
+  },
+  {
+    "id": "world",
+    "term": "world",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "世界",
+    "translation": "世界",
+    "example": "People from all over the world came.",
+    "exampleTranslation": "世界中から人々が来ました。"
+  },
+  {
+    "id": "year",
+    "term": "year",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "年、1年",
+    "translation": "年",
+    "example": "This year, I am fourteen years old.",
+    "exampleTranslation": "今年、私は14歳です。"
+  },
+  {
+    "id": "zoo",
+    "term": "zoo",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "動物園",
+    "translation": "動物園",
+    "example": "We went to the zoo yesterday.",
+    "exampleTranslation": "昨日、動物園に行きました。"
+  },
+  {
+    "id": "able",
+    "term": "able",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "（be able toで）〜できる、能力がある",
+    "translation": "〜できる",
+    "example": "She is able to swim fast.",
+    "exampleTranslation": "彼女は速く泳ぐことができます。"
+  },
+  {
+    "id": "afraid",
+    "term": "afraid",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "恐れて、心配して",
+    "translation": "怖がって、心配して",
+    "example": "I am afraid of dogs.",
+    "exampleTranslation": "私は犬が怖いです。"
+  },
+  {
+    "id": "angry",
+    "term": "angry",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "怒って、腹を立てて",
+    "translation": "怒って",
+    "example": "The teacher was angry with him.",
+    "exampleTranslation": "先生は彼のことで怒っていました。"
+  },
+  {
+    "id": "bad",
+    "term": "bad",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "悪い",
+    "translation": "悪い",
+    "example": "The weather was bad yesterday.",
+    "exampleTranslation": "昨日は天気が悪かったです。"
+  },
+  {
+    "id": "big",
+    "term": "big",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "大きい",
+    "translation": "大きい",
+    "example": "This is a big house.",
+    "exampleTranslation": "これは大きな家です。"
+  },
+  {
+    "id": "black",
+    "term": "black",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "黒い",
+    "translation": "黒い",
+    "example": "He has a black cat.",
+    "exampleTranslation": "彼は黒い猫を飼っています。"
+  },
+  {
+    "id": "blue",
+    "term": "blue",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "青い",
+    "translation": "青い",
+    "example": "The sky is blue today.",
+    "exampleTranslation": "今日は空が青いです。"
+  },
+  {
+    "id": "bright",
+    "term": "bright",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "明るい、輝く",
+    "translation": "明るい",
+    "example": "The room is bright and clean.",
+    "exampleTranslation": "その部屋は明るくてきれいです。"
+  },
+  {
+    "id": "careful",
+    "term": "careful",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "注意深い",
+    "translation": "注意深い",
+    "example": "Be careful when you cross the street.",
+    "exampleTranslation": "道を渡るときは気をつけてください。"
+  },
+  {
+    "id": "cheap",
+    "term": "cheap",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "安い",
+    "translation": "安い",
+    "example": "This bag is cheap but strong.",
+    "exampleTranslation": "このかばんは安いけれど丈夫です。"
+  },
+  {
+    "id": "cool",
+    "term": "cool",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "涼しい、冷たい；かっこいい",
+    "translation": "涼しい",
+    "example": "It is cool today.",
+    "exampleTranslation": "今日は涼しいです。"
+  },
+  {
+    "id": "dark",
+    "term": "dark",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "暗い",
+    "translation": "暗い",
+    "example": "It is already dark outside.",
+    "exampleTranslation": "外はもう暗いです。"
+  },
+  {
+    "id": "deep",
+    "term": "deep",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "深い",
+    "translation": "深い",
+    "example": "This river is very deep.",
+    "exampleTranslation": "この川はとても深いです。"
+  },
+  {
+    "id": "dry",
+    "term": "dry",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "乾いた、乾燥した",
+    "translation": "乾いた",
+    "example": "The towel is dry now.",
+    "exampleTranslation": "タオルは今は乾いています。"
+  },
+  {
+    "id": "fast",
+    "term": "fast",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "速い；速く",
+    "translation": "速い、速く",
+    "example": "He runs very fast.",
+    "exampleTranslation": "彼はとても速く走ります。"
+  },
+  {
+    "id": "favorite",
+    "term": "favorite",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "お気に入りの、最も好きな",
+    "translation": "お気に入りの",
+    "example": "What is your favorite food?",
+    "exampleTranslation": "あなたの好きな食べ物は何ですか。"
+  },
+  {
+    "id": "fine",
+    "term": "fine",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "元気な、晴れた、立派な",
+    "translation": "元気な、晴れた",
+    "example": "I am fine, thank you.",
+    "exampleTranslation": "元気です、ありがとう。"
+  },
+  {
+    "id": "first",
+    "term": "first",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "最初の、第1の；初めて",
+    "translation": "最初の、第1の",
+    "example": "This is my first trip to Tokyo.",
+    "exampleTranslation": "東京への旅行はこれが初めてです。"
+  },
+  {
+    "id": "free",
+    "term": "free",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "自由な、ひまな；無料の",
+    "translation": "自由な、無料の",
+    "example": "Are you free tomorrow?",
+    "exampleTranslation": "明日はひまですか。"
+  },
+  {
+    "id": "full",
+    "term": "full",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "いっぱいの、満ちた",
+    "translation": "いっぱいの",
+    "example": "The bus was full this morning.",
+    "exampleTranslation": "今朝のバスは満員でした。"
+  },
+  {
+    "id": "funny",
+    "term": "funny",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "おかしい、面白い",
+    "translation": "おかしい、面白い",
+    "example": "The story was very funny.",
+    "exampleTranslation": "その話はとてもおかしかったです。"
+  },
+  {
+    "id": "good",
+    "term": "good",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "よい、上手な",
+    "translation": "よい",
+    "example": "She is a good singer.",
+    "exampleTranslation": "彼女は上手な歌手です。"
+  },
+  {
+    "id": "great",
+    "term": "great",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "すばらしい、偉大な",
+    "translation": "すばらしい",
+    "example": "You did a great job!",
+    "exampleTranslation": "よくやりました！"
+  },
+  {
+    "id": "green",
+    "term": "green",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "緑の",
+    "translation": "緑の",
+    "example": "The leaves are green in spring.",
+    "exampleTranslation": "春には葉が緑になります。"
+  },
+  {
+    "id": "happy",
+    "term": "happy",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "幸せな、うれしい",
+    "translation": "幸せな、うれしい",
+    "example": "I am happy to see you.",
+    "exampleTranslation": "あなたに会えてうれしいです。"
+  },
+  {
+    "id": "hard",
+    "term": "hard",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "難しい、かたい；一生懸命に",
+    "translation": "難しい",
+    "example": "This question is hard.",
+    "exampleTranslation": "この問題は難しいです。"
+  },
+  {
+    "id": "high",
+    "term": "high",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "高い",
+    "translation": "高い",
+    "example": "That mountain is very high.",
+    "exampleTranslation": "あの山はとても高いです。"
+  },
+  {
+    "id": "hot",
+    "term": "hot",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "暑い、熱い",
+    "translation": "暑い、熱い",
+    "example": "It is hot in summer.",
+    "exampleTranslation": "夏は暑いです。"
+  },
+  {
+    "id": "important",
+    "term": "important",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "重要な、大切な",
+    "translation": "重要な",
+    "example": "Health is very important.",
+    "exampleTranslation": "健康はとても重要です。"
+  },
+  {
+    "id": "interesting",
+    "term": "interesting",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "面白い、興味深い",
+    "translation": "面白い、興味深い",
+    "example": "This book is interesting.",
+    "exampleTranslation": "この本は面白いです。"
+  },
+  {
+    "id": "late",
+    "term": "late",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "遅い、遅れた",
+    "translation": "遅い",
+    "example": "He was late for school.",
+    "exampleTranslation": "彼は学校に遅刻しました。"
+  },
+  {
+    "id": "little",
+    "term": "little",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "小さい、少しの",
+    "translation": "小さい、少しの",
+    "example": "She has a little sister.",
+    "exampleTranslation": "彼女には妹がいます。"
+  },
+  {
+    "id": "long",
+    "term": "long",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "長い",
+    "translation": "長い",
+    "example": "This is a long story.",
+    "exampleTranslation": "これは長い話です。"
+  },
+  {
+    "id": "many",
+    "term": "many",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "多くの（数えられる名詞につく）",
+    "translation": "多くの",
+    "example": "I have many friends.",
+    "exampleTranslation": "私には友達がたくさんいます。"
+  },
+  {
+    "id": "much",
+    "term": "much",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "多くの（数えられない名詞につく）",
+    "translation": "多くの",
+    "example": "I don't have much time.",
+    "exampleTranslation": "私はあまり時間がありません。"
+  },
+  {
+    "id": "new",
+    "term": "new",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "新しい",
+    "translation": "新しい",
+    "example": "I bought a new bicycle.",
+    "exampleTranslation": "新しい自転車を買いました。"
+  },
+  {
+    "id": "next",
+    "term": "next",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "次の、隣の",
+    "translation": "次の",
+    "example": "See you next week.",
+    "exampleTranslation": "また来週会いましょう。"
+  },
+  {
+    "id": "nice",
+    "term": "nice",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "すてきな、親切な",
+    "translation": "すてきな",
+    "example": "She is a nice person.",
+    "exampleTranslation": "彼女はすてきな人です。"
+  },
+  {
+    "id": "old",
+    "term": "old",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "古い、年をとった",
+    "translation": "古い",
+    "example": "This is an old temple.",
+    "exampleTranslation": "これは古い寺です。"
+  },
+  {
+    "id": "quick",
+    "term": "quick",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "速い、すばやい",
+    "translation": "速い",
+    "example": "He is a quick runner.",
+    "exampleTranslation": "彼は足の速いランナーです。"
+  },
+  {
+    "id": "red",
+    "term": "red",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "赤い",
+    "translation": "赤い",
+    "example": "She likes red flowers.",
+    "exampleTranslation": "彼女は赤い花が好きです。"
+  },
+  {
+    "id": "right",
+    "term": "right",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "正しい；右の",
+    "translation": "正しい、右の",
+    "example": "Your answer is right.",
+    "exampleTranslation": "あなたの答えは正しいです。"
+  },
+  {
+    "id": "sad",
+    "term": "sad",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "悲しい",
+    "translation": "悲しい",
+    "example": "She looked sad.",
+    "exampleTranslation": "彼女は悲しそうでした。"
+  },
+  {
+    "id": "same",
+    "term": "same",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "同じ",
+    "translation": "同じ",
+    "example": "We are in the same class.",
+    "exampleTranslation": "私たちは同じクラスです。"
+  },
+  {
+    "id": "short",
+    "term": "short",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "短い、背が低い",
+    "translation": "短い",
+    "example": "This pencil is short.",
+    "exampleTranslation": "この鉛筆は短いです。"
+  },
+  {
+    "id": "sick",
+    "term": "sick",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "病気の、具合が悪い",
+    "translation": "病気の",
+    "example": "He was sick yesterday.",
+    "exampleTranslation": "彼は昨日、具合が悪かったです。"
+  },
+  {
+    "id": "slow",
+    "term": "slow",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "遅い、ゆっくりした",
+    "translation": "遅い",
+    "example": "This train is slow.",
+    "exampleTranslation": "この電車は遅いです。"
+  },
+  {
+    "id": "small",
+    "term": "small",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "小さい",
+    "translation": "小さい",
+    "example": "The small dog is very cute.",
+    "exampleTranslation": "その小さい犬はとてもかわいいです。"
+  },
+  {
+    "id": "sorry",
+    "term": "sorry",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "申し訳ない、残念に思う",
+    "translation": "申し訳ない",
+    "example": "I am sorry I am late.",
+    "exampleTranslation": "遅れてすみません。"
+  },
+  {
+    "id": "special",
+    "term": "special",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "特別な",
+    "translation": "特別な",
+    "example": "Today is a special day for us.",
+    "exampleTranslation": "今日は私たちにとって特別な日です。"
+  },
+  {
+    "id": "sure",
+    "term": "sure",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "確信して、確かな",
+    "translation": "確信して",
+    "example": "I am sure he will come.",
+    "exampleTranslation": "彼はきっと来ると思います。"
+  },
+  {
+    "id": "sweet",
+    "term": "sweet",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "甘い",
+    "translation": "甘い",
+    "example": "This cake is sweet.",
+    "exampleTranslation": "このケーキは甘いです。"
+  },
+  {
+    "id": "tall",
+    "term": "tall",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "背が高い",
+    "translation": "背が高い",
+    "example": "My brother is tall.",
+    "exampleTranslation": "私の兄は背が高いです。"
+  },
+  {
+    "id": "tired",
+    "term": "tired",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "疲れた",
+    "translation": "疲れた",
+    "example": "I am tired after the long walk.",
+    "exampleTranslation": "長い散歩のあとで疲れました。"
+  },
+  {
+    "id": "true",
+    "term": "true",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "本当の、真実の",
+    "translation": "本当の",
+    "example": "Is this story true?",
+    "exampleTranslation": "この話は本当ですか。"
+  },
+  {
+    "id": "white",
+    "term": "white",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "白い",
+    "translation": "白い",
+    "example": "Snow is white.",
+    "exampleTranslation": "雪は白いです。"
+  },
+  {
+    "id": "young",
+    "term": "young",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "若い",
+    "translation": "若い",
+    "example": "My grandmother is still young.",
+    "exampleTranslation": "祖母はまだ若いです。"
+  },
+  {
+    "id": "ability",
+    "term": "ability",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "能力、才能",
+    "translation": "能力",
+    "example": "She has the ability to speak three languages.",
+    "exampleTranslation": "彼女には3か国語を話す能力がある。"
+  },
+  {
+    "id": "accept",
+    "term": "accept",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "受け入れる、認める",
+    "translation": "受け入れる",
+    "example": "He accepted the job offer at once.",
+    "exampleTranslation": "彼はすぐにその仕事の申し出を受けた。"
+  },
+  {
+    "id": "access",
+    "term": "access",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "利用する権利、接近",
+    "translation": "利用・アクセス",
+    "example": "Students have access to the library until 9 p.m.",
+    "exampleTranslation": "学生は午後9時まで図書館を利用できる。"
+  },
+  {
+    "id": "accident",
+    "term": "accident",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "事故、偶然の出来事",
+    "translation": "事故",
+    "example": "He was injured in a traffic accident.",
+    "exampleTranslation": "彼は交通事故でけがをした。"
+  },
+  {
+    "id": "account",
+    "term": "account",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "説明、口座",
+    "translation": "説明",
+    "example": "She gave an account of what had happened.",
+    "exampleTranslation": "彼女は起こったことを説明した。"
+  },
+  {
+    "id": "acquire",
+    "term": "acquire",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "習得する、獲得する",
+    "translation": "身につける",
+    "example": "He acquired a good knowledge of French while studying abroad.",
+    "exampleTranslation": "彼は留学中にフランス語の十分な知識を身につけた。"
+  },
+  {
+    "id": "addition",
+    "term": "addition",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "追加、付け加えること",
+    "translation": "追加",
+    "example": "In addition to English, she speaks Spanish.",
+    "exampleTranslation": "英語に加えて、彼女はスペイン語も話す。"
+  },
+  {
+    "id": "admit",
+    "term": "admit",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "認める、入場を許す",
+    "translation": "認める",
+    "example": "He admitted that he had made a mistake.",
+    "exampleTranslation": "彼は間違いを犯したことを認めた。"
+  },
+  {
+    "id": "advantage",
+    "term": "advantage",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "利点、有利な点",
+    "translation": "利点",
+    "example": "Living in the city has many advantages.",
+    "exampleTranslation": "都市部に住むことには多くの利点がある。"
+  },
+  {
+    "id": "advice",
+    "term": "advice",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "助言、忠告",
+    "translation": "助言",
+    "example": "The doctor gave me some advice on my health.",
+    "exampleTranslation": "医者は私に健康についての助言をくれた。"
+  },
+  {
+    "id": "advise",
+    "term": "advise",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "助言する、勧める",
+    "translation": "助言する",
+    "example": "I advise you to see a doctor.",
+    "exampleTranslation": "医者に診てもらうことを勧めます。"
+  },
+  {
+    "id": "afford",
+    "term": "afford",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "〜する余裕がある",
+    "translation": "余裕がある",
+    "example": "We can't afford to buy a new car.",
+    "exampleTranslation": "私たちには新車を買う余裕がない。"
+  },
+  {
+    "id": "agree",
+    "term": "agree",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "同意する、一致する",
+    "translation": "同意する",
+    "example": "I agree with you on this point.",
+    "exampleTranslation": "この点についてはあなたに同意します。"
+  },
+  {
+    "id": "aim",
+    "term": "aim",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "ねらい、目指す",
+    "translation": "目指す",
+    "example": "This program aims to reduce waste.",
+    "exampleTranslation": "このプログラムはごみを減らすことを目指している。"
+  },
+  {
+    "id": "allow",
+    "term": "allow",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "許す、可能にする",
+    "translation": "許す",
+    "example": "Smoking is not allowed here.",
+    "exampleTranslation": "ここでは喫煙は許可されていない。"
+  },
+  {
+    "id": "amount",
+    "term": "amount",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "量、総額",
+    "translation": "量",
+    "example": "A large amount of money was spent on the project.",
+    "exampleTranslation": "その事業に多額のお金が費やされた。"
+  },
+  {
+    "id": "ancient",
+    "term": "ancient",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "古代の、大昔の",
+    "translation": "古代の",
+    "example": "They visited the ancient ruins in Greece.",
+    "exampleTranslation": "彼らはギリシャの古代遺跡を訪れた。"
+  },
+  {
+    "id": "announce",
+    "term": "announce",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "発表する、告知する",
+    "translation": "発表する",
+    "example": "The school announced the results of the exam.",
+    "exampleTranslation": "学校は試験の結果を発表した。"
+  },
+  {
+    "id": "annual",
+    "term": "annual",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "年に一度の、年間の",
+    "translation": "年一度の",
+    "example": "The annual festival is held in August.",
+    "exampleTranslation": "毎年恒例の祭りは8月に開かれる。"
+  },
+  {
+    "id": "anxious",
+    "term": "anxious",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "心配して、切望して",
+    "translation": "心配して",
+    "example": "She was anxious about the result of the exam.",
+    "exampleTranslation": "彼女は試験の結果を心配していた。"
+  },
+  {
+    "id": "apologize",
+    "term": "apologize",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "謝る、謝罪する",
+    "translation": "謝る",
+    "example": "He apologized for being late.",
+    "exampleTranslation": "彼は遅刻したことを謝った。"
+  },
+  {
+    "id": "appear",
+    "term": "appear",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "現れる、〜のように見える",
+    "translation": "現れる",
+    "example": "A rainbow appeared after the rain.",
+    "exampleTranslation": "雨の後に虹が現れた。"
+  },
+  {
+    "id": "apply",
+    "term": "apply",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "申し込む、適用する",
+    "translation": "申し込む",
+    "example": "He applied for a scholarship.",
+    "exampleTranslation": "彼は奨学金に申し込んだ。"
+  },
+  {
+    "id": "appreciate",
+    "term": "appreciate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "感謝する、真価を認める",
+    "translation": "感謝する",
+    "example": "I really appreciate your help.",
+    "exampleTranslation": "あなたの助けに本当に感謝しています。"
+  },
+  {
+    "id": "approach",
+    "term": "approach",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "近づく、取り組み方",
+    "translation": "近づく",
+    "example": "As the exam approached, he studied harder.",
+    "exampleTranslation": "試験が近づくにつれて、彼はますます一生懸命勉強した。"
+  },
+  {
+    "id": "appropriate",
+    "term": "appropriate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "適切な、ふさわしい",
+    "translation": "適切な",
+    "example": "This book is appropriate for beginners.",
+    "exampleTranslation": "この本は初心者に適している。"
+  },
+  {
+    "id": "approve",
+    "term": "approve",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "承認する、賛成する",
+    "translation": "承認する",
+    "example": "The committee approved the new plan.",
+    "exampleTranslation": "委員会は新しい計画を承認した。"
+  },
+  {
+    "id": "argue",
+    "term": "argue",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "主張する、議論する",
+    "translation": "主張する",
+    "example": "He argued that the plan would not work.",
+    "exampleTranslation": "その計画はうまくいかないと彼は主張した。"
+  },
+  {
+    "id": "argument",
+    "term": "argument",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "議論、論拠",
+    "translation": "議論",
+    "example": "They had an argument about money.",
+    "exampleTranslation": "彼らはお金のことで議論した。"
+  },
+  {
+    "id": "arise",
+    "term": "arise",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "生じる、起こる",
+    "translation": "生じる",
+    "example": "Problems may arise in the future.",
+    "exampleTranslation": "将来、問題が生じるかもしれない。"
+  },
+  {
+    "id": "arrange",
+    "term": "arrange",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "手配する、並べる",
+    "translation": "手配する",
+    "example": "She arranged a meeting with the manager.",
+    "exampleTranslation": "彼女は部長との会議を手配した。"
+  },
+  {
+    "id": "arrival",
+    "term": "arrival",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "到着",
+    "translation": "到着",
+    "example": "We were waiting for the arrival of the train.",
+    "exampleTranslation": "私たちは列車の到着を待っていた。"
+  },
+  {
+    "id": "article",
+    "term": "article",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "記事、条項",
+    "translation": "記事",
+    "example": "I read an interesting article in the newspaper.",
+    "exampleTranslation": "新聞で興味深い記事を読んだ。"
+  },
+  {
+    "id": "aspect",
+    "term": "aspect",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "側面、様相",
+    "translation": "側面",
+    "example": "We must consider every aspect of the problem.",
+    "exampleTranslation": "私たちはその問題のあらゆる側面を考慮しなければならない。"
+  },
+  {
+    "id": "assist",
+    "term": "assist",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "手伝う、援助する",
+    "translation": "手伝う",
+    "example": "She assisted the professor with his research.",
+    "exampleTranslation": "彼女は教授の研究を手伝った。"
+  },
+  {
+    "id": "associate",
+    "term": "associate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "連想する、関連づける",
+    "translation": "連想する",
+    "example": "Many people associate Kyoto with old temples.",
+    "exampleTranslation": "多くの人は京都と聞くと古い寺を連想する。"
+  },
+  {
+    "id": "assume",
+    "term": "assume",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "〜だと思う、想定する",
+    "translation": "想定する",
+    "example": "I assume that the store is still open.",
+    "exampleTranslation": "その店はまだ開いていると思います。"
+  },
+  {
+    "id": "athlete",
+    "term": "athlete",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "運動選手",
+    "translation": "選手",
+    "example": "The athlete trained hard for the Olympic Games.",
+    "exampleTranslation": "その選手はオリンピックに向けて一生懸命練習した。"
+  },
+  {
+    "id": "atmosphere",
+    "term": "atmosphere",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "大気、雰囲気",
+    "translation": "雰囲気",
+    "example": "The atmosphere of the small café was warm and friendly.",
+    "exampleTranslation": "その小さなカフェの雰囲気は温かく親しみやすかった。"
+  },
+  {
+    "id": "attach",
+    "term": "attach",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "取り付ける、添付する",
+    "translation": "添付する",
+    "example": "Please attach the file to your email.",
+    "exampleTranslation": "ファイルをメールに添付してください。"
+  },
+  {
+    "id": "attempt",
+    "term": "attempt",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "試み、試みる",
+    "translation": "試みる",
+    "example": "He attempted to climb the mountain alone.",
+    "exampleTranslation": "彼は一人でその山に登ろうとした。"
+  },
+  {
+    "id": "attend",
+    "term": "attend",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "出席する、通う",
+    "translation": "出席する",
+    "example": "About 200 people attended the lecture.",
+    "exampleTranslation": "約200人がその講義に出席した。"
+  },
+  {
+    "id": "attention",
+    "term": "attention",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "注意、注目",
+    "translation": "注意",
+    "example": "Pay attention to what the teacher says.",
+    "exampleTranslation": "先生の言うことに注意しなさい。"
+  },
+  {
+    "id": "attitude",
+    "term": "attitude",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "態度、姿勢",
+    "translation": "態度",
+    "example": "His attitude toward work has changed.",
+    "exampleTranslation": "仕事に対する彼の態度は変わった。"
+  },
+  {
+    "id": "attract",
+    "term": "attract",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "引きつける、魅了する",
+    "translation": "引きつける",
+    "example": "The exhibition attracted many visitors.",
+    "exampleTranslation": "その展示会は多くの来場者を引きつけた。"
+  },
+  {
+    "id": "audience",
+    "term": "audience",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "聴衆、観客",
+    "translation": "聴衆",
+    "example": "The audience applauded loudly.",
+    "exampleTranslation": "聴衆は大きな拍手を送った。"
+  },
+  {
+    "id": "authority",
+    "term": "authority",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "権威、当局",
+    "translation": "権威",
+    "example": "The mayor has the authority to make this decision.",
+    "exampleTranslation": "市長にはこの決定をする権限がある。"
+  },
+  {
+    "id": "average",
+    "term": "average",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "平均、平均の",
+    "translation": "平均",
+    "example": "The average temperature in July is about 28 degrees.",
+    "exampleTranslation": "7月の平均気温は約28度である。"
+  },
+  {
+    "id": "aware",
+    "term": "aware",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "気づいている、知っている",
+    "translation": "気づいている",
+    "example": "She was aware of the danger.",
+    "exampleTranslation": "彼女はその危険に気づいていた。"
+  },
+  {
+    "id": "background",
+    "term": "background",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "背景、経歴",
+    "translation": "背景",
+    "example": "He comes from a musical background.",
+    "exampleTranslation": "彼は音楽家の家系の出身である。"
+  },
+  {
+    "id": "balance",
+    "term": "balance",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "釣り合い、調和",
+    "translation": "バランス",
+    "example": "It is important to keep a balance between work and rest.",
+    "exampleTranslation": "仕事と休息の釣り合いを保つことが大切だ。"
+  },
+  {
+    "id": "ban",
+    "term": "ban",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "禁止、禁止する",
+    "translation": "禁止",
+    "example": "The use of smartphones is banned in this room.",
+    "exampleTranslation": "この部屋ではスマートフォンの使用が禁止されている。"
+  },
+  {
+    "id": "barrier",
+    "term": "barrier",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "障壁、防壁",
+    "translation": "障壁",
+    "example": "Language can be a barrier to communication.",
+    "exampleTranslation": "言葉はコミュニケーションの障壁になりうる。"
+  },
+  {
+    "id": "basic",
+    "term": "basic",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "基本的な、基礎の",
+    "translation": "基本的な",
+    "example": "Reading is a basic skill for learning.",
+    "exampleTranslation": "読むことは学習のための基本的な技能である。"
+  },
+  {
+    "id": "basis",
+    "term": "basis",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "基礎、根拠",
+    "translation": "根拠",
+    "example": "Decisions should be made on the basis of facts.",
+    "exampleTranslation": "決定は事実に基づいてなされるべきだ。"
+  },
+  {
+    "id": "battle",
+    "term": "battle",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "戦い、闘争",
+    "translation": "戦い",
+    "example": "The two armies fought a fierce battle.",
+    "exampleTranslation": "両軍は激しい戦いを繰り広げた。"
+  },
+  {
+    "id": "behalf",
+    "term": "behalf",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "（〜を）代表して、（〜の）ために",
+    "translation": "代表して",
+    "example": "He spoke on behalf of all the students.",
+    "exampleTranslation": "彼は全生徒を代表して話した。"
+  },
+  {
+    "id": "behave",
+    "term": "behave",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "振る舞う、行儀よくする",
+    "translation": "振る舞う",
+    "example": "The children behaved well during the trip.",
+    "exampleTranslation": "子どもたちは旅行中、行儀よく振る舞った。"
+  },
+  {
+    "id": "behavior",
+    "term": "behavior",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "行動、振る舞い",
+    "translation": "行動",
+    "example": "His rude behavior made everyone angry.",
+    "exampleTranslation": "彼の失礼な振る舞いはみんなを怒らせた。"
+  },
+  {
+    "id": "belief",
+    "term": "belief",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "信念、信じること",
+    "translation": "信念",
+    "example": "It is my belief that education is the key to success.",
+    "exampleTranslation": "教育こそが成功の鍵だというのが私の信念である。"
+  },
+  {
+    "id": "belong",
+    "term": "belong",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "属する、（〜の）所有である",
+    "translation": "属する",
+    "example": "This book belongs to the school library.",
+    "exampleTranslation": "この本は学校の図書館のものである。"
+  },
+  {
+    "id": "bend",
+    "term": "bend",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "曲げる、曲がる",
+    "translation": "曲げる",
+    "example": "She bent down to pick up the coin.",
+    "exampleTranslation": "彼女はコインを拾うために身をかがめた。"
+  },
+  {
+    "id": "beyond",
+    "term": "beyond",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "〜を越えて、〜の向こうに",
+    "translation": "〜を越えて",
+    "example": "The village is beyond the mountains.",
+    "exampleTranslation": "その村は山々の向こうにある。"
+  },
+  {
+    "id": "billion",
+    "term": "billion",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "10億",
+    "translation": "10億",
+    "example": "The company is worth over two billion dollars.",
+    "exampleTranslation": "その会社の価値は20億ドル以上である。"
+  },
+  {
+    "id": "blame",
+    "term": "blame",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "責める、責任",
+    "translation": "責める",
+    "example": "Don't blame others for your mistakes.",
+    "exampleTranslation": "自分の失敗を他人のせいにしてはいけない。"
+  },
+  {
+    "id": "blank",
+    "term": "blank",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "空白の、空白",
+    "translation": "空白",
+    "example": "Fill in the blanks with suitable words.",
+    "exampleTranslation": "空欄に適当な語を入れなさい。"
+  },
+  {
+    "id": "block",
+    "term": "block",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "塊、妨げる",
+    "translation": "ふさぐ",
+    "example": "A fallen tree blocked the road.",
+    "exampleTranslation": "倒れた木が道路をふさいだ。"
+  },
+  {
+    "id": "board",
+    "term": "board",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "板、（乗り物に）乗る",
+    "translation": "板",
+    "example": "Passengers are now boarding the plane.",
+    "exampleTranslation": "乗客は今、飛行機に乗り込んでいるところだ。"
+  },
+  {
+    "id": "border",
+    "term": "border",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "国境、境界",
+    "translation": "国境",
+    "example": "The river forms the border between the two countries.",
+    "exampleTranslation": "その川が両国の国境をなしている。"
+  },
+  {
+    "id": "bother",
+    "term": "bother",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "悩ます、わざわざ〜する",
+    "translation": "悩ます",
+    "example": "Don't bother to come all the way here.",
+    "exampleTranslation": "わざわざここまで来なくてもいいですよ。"
+  },
+  {
+    "id": "bottom",
+    "term": "bottom",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "底、一番下",
+    "translation": "底",
+    "example": "The ship sank to the bottom of the sea.",
+    "exampleTranslation": "船は海の底に沈んだ。"
+  },
+  {
+    "id": "brain",
+    "term": "brain",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "脳、頭脳",
+    "translation": "脳",
+    "example": "The human brain is still full of mysteries.",
+    "exampleTranslation": "人間の脳はまだ謎に満ちている。"
+  },
+  {
+    "id": "branch",
+    "term": "branch",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "枝、支店",
+    "translation": "支店",
+    "example": "The bank has a branch in our town.",
+    "exampleTranslation": "その銀行は私たちの町に支店がある。"
+  },
+  {
+    "id": "brand",
+    "term": "brand",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "ブランド、銘柄",
+    "translation": "ブランド",
+    "example": "This brand of shoes is popular among young people.",
+    "exampleTranslation": "このブランドの靴は若者に人気がある。"
+  },
+  {
+    "id": "brave",
+    "term": "brave",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "勇敢な、勇ましい",
+    "translation": "勇敢な",
+    "example": "The brave firefighter saved the child.",
+    "exampleTranslation": "勇敢な消防士がその子どもを救った。"
+  },
+  {
+    "id": "breath",
+    "term": "breath",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "息、呼吸",
+    "translation": "息",
+    "example": "He took a deep breath and began to speak.",
+    "exampleTranslation": "彼は深呼吸をして話し始めた。"
+  },
+  {
+    "id": "breathe",
+    "term": "breathe",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "呼吸する、息をする",
+    "translation": "呼吸する",
+    "example": "It's hard to breathe at high altitudes.",
+    "exampleTranslation": "高い場所では呼吸するのが難しい。"
+  },
+  {
+    "id": "breeze",
+    "term": "breeze",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "そよ風",
+    "translation": "そよ風",
+    "example": "A cool breeze was blowing from the sea.",
+    "exampleTranslation": "海から涼しいそよ風が吹いていた。"
+  },
+  {
+    "id": "brief",
+    "term": "brief",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "簡潔な、短い",
+    "translation": "簡潔な",
+    "example": "Please keep your answer brief.",
+    "exampleTranslation": "答えは簡潔にしてください。"
+  },
+  {
+    "id": "brilliant",
+    "term": "brilliant",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "見事な、素晴らしい",
+    "translation": "素晴らしい",
+    "example": "She came up with a brilliant idea.",
+    "exampleTranslation": "彼女は素晴らしいアイデアを思いついた。"
+  },
+  {
+    "id": "broad",
+    "term": "broad",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "幅広い、広い",
+    "translation": "幅広い",
+    "example": "He has a broad knowledge of history.",
+    "exampleTranslation": "彼は歴史について幅広い知識がある。"
+  },
+  {
+    "id": "broadcast",
+    "term": "broadcast",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "放送する、放送",
+    "translation": "放送する",
+    "example": "The game will be broadcast live on TV.",
+    "exampleTranslation": "その試合はテレビで生放送される。"
+  },
+  {
+    "id": "budget",
+    "term": "budget",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "予算",
+    "translation": "予算",
+    "example": "We have to plan the trip within our budget.",
+    "exampleTranslation": "予算の範囲内で旅行を計画しなければならない。"
+  },
+  {
+    "id": "burden",
+    "term": "burden",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "負担、重荷",
+    "translation": "負担",
+    "example": "Caring for elderly parents can be a heavy burden.",
+    "exampleTranslation": "高齢の親の介護は重い負担になりうる。"
+  },
+  {
+    "id": "bury",
+    "term": "bury",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "埋める、埋葬する",
+    "translation": "埋める",
+    "example": "The dog buried the bone in the garden.",
+    "exampleTranslation": "犬は庭に骨を埋めた。"
+  },
+  {
+    "id": "calculate",
+    "term": "calculate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "計算する、見積もる",
+    "translation": "計算する",
+    "example": "He calculated the total cost of the trip.",
+    "exampleTranslation": "彼は旅行の総費用を計算した。"
+  },
+  {
+    "id": "calm",
+    "term": "calm",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "穏やかな、落ち着く",
+    "translation": "穏やかな",
+    "example": "Stay calm and think carefully.",
+    "exampleTranslation": "落ち着いてよく考えなさい。"
+  },
+  {
+    "id": "campaign",
+    "term": "campaign",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "運動、キャンペーン",
+    "translation": "運動",
+    "example": "The city launched a campaign to reduce plastic waste.",
+    "exampleTranslation": "市はプラスチックごみを減らす運動を始めた。"
+  },
+  {
+    "id": "campus",
+    "term": "campus",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "キャンパス、構内",
+    "translation": "キャンパス",
+    "example": "The university campus is full of trees.",
+    "exampleTranslation": "大学のキャンパスは木々でいっぱいだ。"
+  },
+  {
+    "id": "cancel",
+    "term": "cancel",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "取り消す、中止する",
+    "translation": "取り消す",
+    "example": "The concert was canceled because of the typhoon.",
+    "exampleTranslation": "台風のためコンサートは中止になった。"
+  },
+  {
+    "id": "cancer",
+    "term": "cancer",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "がん",
+    "translation": "がん",
+    "example": "Smoking is a major cause of lung cancer.",
+    "exampleTranslation": "喫煙は肺がんの主な原因である。"
+  },
+  {
+    "id": "candidate",
+    "term": "candidate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "候補者、志願者",
+    "translation": "候補者",
+    "example": "She is the strongest candidate for the job.",
+    "exampleTranslation": "彼女はその仕事の最有力候補者である。"
+  },
+  {
+    "id": "capable",
+    "term": "capable",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "能力がある、〜できる",
+    "translation": "能力がある",
+    "example": "He is capable of solving this problem by himself.",
+    "exampleTranslation": "彼にはこの問題を一人で解く能力がある。"
+  },
+  {
+    "id": "capacity",
+    "term": "capacity",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "収容力、能力",
+    "translation": "収容力",
+    "example": "This hall has a capacity of 500 people.",
+    "exampleTranslation": "このホールの収容人数は500人である。"
+  },
+  {
+    "id": "capital",
+    "term": "capital",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "首都、資本",
+    "translation": "首都",
+    "example": "Tokyo is the capital of Japan.",
+    "exampleTranslation": "東京は日本の首都である。"
+  },
+  {
+    "id": "captain",
+    "term": "captain",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "主将、船長",
+    "translation": "主将",
+    "example": "He was chosen as the captain of the soccer team.",
+    "exampleTranslation": "彼はサッカーチームの主将に選ばれた。"
+  },
+  {
+    "id": "capture",
+    "term": "capture",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "捕らえる、捉える",
+    "translation": "捉える",
+    "example": "The photo captured the beauty of the sunset.",
+    "exampleTranslation": "その写真は夕日の美しさを捉えていた。"
+  },
+  {
+    "id": "carbon",
+    "term": "carbon",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "炭素",
+    "translation": "炭素",
+    "example": "Plants absorb carbon dioxide from the air.",
+    "exampleTranslation": "植物は空気中から二酸化炭素を吸収する。"
+  },
+  {
+    "id": "career",
+    "term": "career",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "職業、経歴",
+    "translation": "経歴",
+    "example": "She started her career as a teacher.",
+    "exampleTranslation": "彼女は教師としてキャリアを始めた。"
+  },
+  {
+    "id": "case",
+    "term": "case",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "場合、事例",
+    "translation": "場合",
+    "example": "In this case, we need more time.",
+    "exampleTranslation": "この場合、私たちはもっと時間が必要だ。"
+  },
+  {
+    "id": "cash",
+    "term": "cash",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "現金",
+    "translation": "現金",
+    "example": "Can I pay in cash?",
+    "exampleTranslation": "現金で払えますか。"
+  },
+  {
+    "id": "cast",
+    "term": "cast",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "投げる、（影を）落とす",
+    "translation": "投げる",
+    "example": "The tree cast a long shadow on the ground.",
+    "exampleTranslation": "木は地面に長い影を落とした。"
+  },
+  {
+    "id": "casual",
+    "term": "casual",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "カジュアルな、気楽な",
+    "translation": "気楽な",
+    "example": "He wore casual clothes to the party.",
+    "exampleTranslation": "彼はパーティーにカジュアルな服装で来た。"
+  },
+  {
+    "id": "category",
+    "term": "category",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "範疇、カテゴリー",
+    "translation": "カテゴリー",
+    "example": "These books are divided into several categories.",
+    "exampleTranslation": "これらの本はいくつかのカテゴリーに分類されている。"
+  },
+  {
+    "id": "cause",
+    "term": "cause",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "原因、引き起こす",
+    "translation": "原因",
+    "example": "The heavy rain caused serious flooding.",
+    "exampleTranslation": "大雨が深刻な洪水を引き起こした。"
+  },
+  {
+    "id": "ceiling",
+    "term": "ceiling",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "天井、上限",
+    "translation": "天井",
+    "example": "The room has a high ceiling.",
+    "exampleTranslation": "その部屋は天井が高い。"
+  },
+  {
+    "id": "cell",
+    "term": "cell",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "細胞、小部屋",
+    "translation": "細胞",
+    "example": "The human body is made up of trillions of cells.",
+    "exampleTranslation": "人体は何兆もの細胞からできている。"
+  },
+  {
+    "id": "ceremony",
+    "term": "ceremony",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "式典、儀式",
+    "translation": "式典",
+    "example": "The opening ceremony will be held tomorrow.",
+    "exampleTranslation": "開会式は明日行われる。"
+  },
+  {
+    "id": "certain",
+    "term": "certain",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "確信して、ある〜",
+    "translation": "確信して",
+    "example": "I am certain that he will succeed.",
+    "exampleTranslation": "彼が成功すると私は確信している。"
+  },
+  {
+    "id": "chain",
+    "term": "chain",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "鎖、一連のもの",
+    "translation": "鎖",
+    "example": "The island chain stretches for hundreds of kilometers.",
+    "exampleTranslation": "その列島は何百キロにもわたって連なっている。"
+  },
+  {
+    "id": "character",
+    "term": "character",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "性格、登場人物",
+    "translation": "性格",
+    "example": "He has a kind and honest character.",
+    "exampleTranslation": "彼は優しく誠実な性格である。"
+  },
+  {
+    "id": "charge",
+    "term": "charge",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "料金、請求する",
+    "translation": "料金",
+    "example": "The hotel charges 10,000 yen per night.",
+    "exampleTranslation": "そのホテルは1泊1万円を請求する。"
+  },
+  {
+    "id": "charity",
+    "term": "charity",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "慈善、慈善団体",
+    "translation": "慈善",
+    "example": "She donated money to a local charity.",
+    "exampleTranslation": "彼女は地元の慈善団体にお金を寄付した。"
+  },
+  {
+    "id": "chart",
+    "term": "chart",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "図表、チャート",
+    "translation": "図表",
+    "example": "The chart shows changes in the population.",
+    "exampleTranslation": "その図表は人口の変化を示している。"
+  },
+  {
+    "id": "chase",
+    "term": "chase",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "追いかける、追う",
+    "translation": "追いかける",
+    "example": "The dog chased the cat across the garden.",
+    "exampleTranslation": "犬は庭を横切って猫を追いかけた。"
+  },
+  {
+    "id": "chemical",
+    "term": "chemical",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "化学の、化学物質",
+    "translation": "化学物質",
+    "example": "Chemical substances must be handled with care.",
+    "exampleTranslation": "化学物質は注意して取り扱わなければならない。"
+  },
+  {
+    "id": "chemistry",
+    "term": "chemistry",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "化学",
+    "translation": "化学",
+    "example": "She is majoring in chemistry at university.",
+    "exampleTranslation": "彼女は大学で化学を専攻している。"
+  },
+  {
+    "id": "chest",
+    "term": "chest",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "胸",
+    "translation": "胸",
+    "example": "He felt a sharp pain in his chest.",
+    "exampleTranslation": "彼は胸に鋭い痛みを感じた。"
+  },
+  {
+    "id": "chief",
+    "term": "chief",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "主な、長",
+    "translation": "主な",
+    "example": "Rice is the chief food in Japan.",
+    "exampleTranslation": "米は日本における主食である。"
+  },
+  {
+    "id": "childhood",
+    "term": "childhood",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "子ども時代、幼年期",
+    "translation": "子ども時代",
+    "example": "He spent his childhood in the countryside.",
+    "exampleTranslation": "彼は子ども時代を田舎で過ごした。"
+  },
+  {
+    "id": "choice",
+    "term": "choice",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "選択、選ぶこと",
+    "translation": "選択",
+    "example": "You have no choice but to wait.",
+    "exampleTranslation": "あなたには待つしか選択肢がない。"
+  },
+  {
+    "id": "citizen",
+    "term": "citizen",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "市民、国民",
+    "translation": "市民",
+    "example": "Every citizen has the right to vote.",
+    "exampleTranslation": "すべての市民には投票する権利がある。"
+  },
+  {
+    "id": "civil",
+    "term": "civil",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "市民の、国内の",
+    "translation": "市民の",
+    "example": "The civil war lasted for many years.",
+    "exampleTranslation": "その内戦は何年も続いた。"
+  },
+  {
+    "id": "claim",
+    "term": "claim",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "主張する、要求する",
+    "translation": "主張する",
+    "example": "He claimed that he had seen a ghost.",
+    "exampleTranslation": "彼は幽霊を見たと主張した。"
+  },
+  {
+    "id": "classic",
+    "term": "classic",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "古典的な、代表的な",
+    "translation": "古典的な",
+    "example": "This novel is a classic of Japanese literature.",
+    "exampleTranslation": "この小説は日本文学の古典である。"
+  },
+  {
+    "id": "classify",
+    "term": "classify",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "分類する",
+    "translation": "分類する",
+    "example": "Books in the library are classified by subject.",
+    "exampleTranslation": "図書館の本は主題ごとに分類されている。"
+  },
+  {
+    "id": "clerk",
+    "term": "clerk",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "店員、事務員",
+    "translation": "店員",
+    "example": "A clerk at the store helped me find the book.",
+    "exampleTranslation": "店員が本を探すのを手伝ってくれた。"
+  },
+  {
+    "id": "clever",
+    "term": "clever",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "賢い、利口な",
+    "translation": "賢い",
+    "example": "She is clever enough to solve the puzzle.",
+    "exampleTranslation": "彼女はそのパズルを解けるほど賢い。"
+  },
+  {
+    "id": "client",
+    "term": "client",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "依頼人、顧客",
+    "translation": "依頼人",
+    "example": "The lawyer met with his client.",
+    "exampleTranslation": "弁護士は依頼人と面会した。"
+  },
+  {
+    "id": "climate",
+    "term": "climate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "気候、風土",
+    "translation": "気候",
+    "example": "The climate of this region is mild all year.",
+    "exampleTranslation": "この地域の気候は一年中温暖である。"
+  },
+  {
+    "id": "clue",
+    "term": "clue",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "手がかり、ヒント",
+    "translation": "手がかり",
+    "example": "The police found an important clue at the scene.",
+    "exampleTranslation": "警察は現場で重要な手がかりを見つけた。"
+  },
+  {
+    "id": "coach",
+    "term": "coach",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "コーチ、指導する",
+    "translation": "コーチ",
+    "example": "Our coach taught us the basics of soccer.",
+    "exampleTranslation": "コーチは私たちにサッカーの基礎を教えた。"
+  },
+  {
+    "id": "coast",
+    "term": "coast",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "海岸、沿岸",
+    "translation": "海岸",
+    "example": "We drove along the coast for hours.",
+    "exampleTranslation": "私たちは何時間も海岸沿いをドライブした。"
+  },
+  {
+    "id": "code",
+    "term": "code",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "規則、符号・コード",
+    "translation": "コード",
+    "example": "You need a secret code to open the door.",
+    "exampleTranslation": "ドアを開けるには暗証番号が必要だ。"
+  },
+  {
+    "id": "collapse",
+    "term": "collapse",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "崩壊する、倒れる",
+    "translation": "倒壊する",
+    "example": "The old building collapsed in the earthquake.",
+    "exampleTranslation": "その古い建物は地震で倒壊した。"
+  },
+  {
+    "id": "colleague",
+    "term": "colleague",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "同僚",
+    "translation": "同僚",
+    "example": "She discussed the plan with her colleagues.",
+    "exampleTranslation": "彼女は同僚とその計画について話し合った。"
+  },
+  {
+    "id": "colony",
+    "term": "colony",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "植民地、コロニー",
+    "translation": "植民地",
+    "example": "The country was once a British colony.",
+    "exampleTranslation": "その国はかつてイギリスの植民地だった。"
+  },
+  {
+    "id": "column",
+    "term": "column",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "コラム、柱",
+    "translation": "コラム",
+    "example": "He writes a weekly column for the newspaper.",
+    "exampleTranslation": "彼は新聞に毎週コラムを書いている。"
+  },
+  {
+    "id": "combine",
+    "term": "combine",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "結合する、兼ねる",
+    "translation": "組み合わせる",
+    "example": "The new course combines theory with practice.",
+    "exampleTranslation": "その新しい講座は理論と実践を組み合わせている。"
+  },
+  {
+    "id": "comedy",
+    "term": "comedy",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "喜劇、コメディ",
+    "translation": "喜劇",
+    "example": "We watched a comedy show on TV last night.",
+    "exampleTranslation": "昨夜、テレビでコメディ番組を見た。"
+  },
+  {
+    "id": "comfort",
+    "term": "comfort",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "快適さ、慰め",
+    "translation": "慰め",
+    "example": "Her kind words gave me great comfort.",
+    "exampleTranslation": "彼女の優しい言葉は私を大いに慰めてくれた。"
+  },
+  {
+    "id": "comfortable",
+    "term": "comfortable",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "快適な、心地よい",
+    "translation": "快適な",
+    "example": "This chair is very comfortable to sit in.",
+    "exampleTranslation": "この椅子は座り心地がとてもよい。"
+  },
+  {
+    "id": "command",
+    "term": "command",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "命令、指揮",
+    "translation": "命令",
+    "example": "The officer gave the command to advance.",
+    "exampleTranslation": "将校は前進の命令を下した。"
+  },
+  {
+    "id": "comment",
+    "term": "comment",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "意見、コメント",
+    "translation": "コメント",
+    "example": "Please feel free to comment on my essay.",
+    "exampleTranslation": "私のエッセイに自由にコメントしてください。"
+  },
+  {
+    "id": "commercial",
+    "term": "commercial",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "商業の、営利的な",
+    "translation": "商業の",
+    "example": "The area has become a commercial district.",
+    "exampleTranslation": "その地域は商業地区になった。"
+  },
+  {
+    "id": "commit",
+    "term": "commit",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "（罪を）犯す、専念する",
+    "translation": "犯す",
+    "example": "He committed himself to finishing the project by March.",
+    "exampleTranslation": "彼は3月までにそのプロジェクトを終えることに専念した。"
+  },
+  {
+    "id": "committee",
+    "term": "committee",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "委員会",
+    "translation": "委員会",
+    "example": "The committee decided to postpone the event.",
+    "exampleTranslation": "委員会はイベントの延期を決めた。"
+  },
+  {
+    "id": "common",
+    "term": "common",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "共通の、よくある",
+    "translation": "共通の",
+    "example": "It is common for students to study late at night.",
+    "exampleTranslation": "学生が夜遅くまで勉強するのはよくあることだ。"
+  },
+  {
+    "id": "community",
+    "term": "community",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "地域社会、共同体",
+    "translation": "地域社会",
+    "example": "Local community members helped clean the park.",
+    "exampleTranslation": "地域社会の人々が公園の清掃を手伝った。"
+  },
+  {
+    "id": "company",
+    "term": "company",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "会社、仲間",
+    "translation": "会社",
+    "example": "She works for a software company.",
+    "exampleTranslation": "彼女はソフトウェア会社に勤めている。"
+  },
+  {
+    "id": "compare",
+    "term": "compare",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "比較する、たとえる",
+    "translation": "比較する",
+    "example": "Compare your answers with your partner's.",
+    "exampleTranslation": "自分の答えをパートナーのものと比べなさい。"
+  },
+  {
+    "id": "compete",
+    "term": "compete",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "競争する、参加する",
+    "translation": "競う",
+    "example": "Athletes from all over the world compete in the games.",
+    "exampleTranslation": "世界中の選手がその大会で競い合う。"
+  },
+  {
+    "id": "competition",
+    "term": "competition",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "競争、競技会",
+    "translation": "競技会",
+    "example": "He won first prize in the speech competition.",
+    "exampleTranslation": "彼はスピーチコンテストで優勝した。"
+  },
+  {
+    "id": "complain",
+    "term": "complain",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "不満を言う、苦情を言う",
+    "translation": "不満を言う",
+    "example": "Customers often complain about the noise.",
+    "exampleTranslation": "客はよく騒音について不満を言う。"
+  },
+  {
+    "id": "complete",
+    "term": "complete",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "完全な、完了する",
+    "translation": "完全な",
+    "example": "The report is now complete.",
+    "exampleTranslation": "レポートはこれで完成した。"
+  },
+  {
+    "id": "complex",
+    "term": "complex",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "複雑な",
+    "translation": "複雑な",
+    "example": "The human brain is a complex organ.",
+    "exampleTranslation": "人間の脳は複雑な器官である。"
+  },
+  {
+    "id": "complicated",
+    "term": "complicated",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "複雑な、入り組んだ",
+    "translation": "複雑な",
+    "example": "The instructions were too complicated to follow.",
+    "exampleTranslation": "その指示は複雑すぎて従えなかった。"
+  },
+  {
+    "id": "concentrate",
+    "term": "concentrate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "集中する",
+    "translation": "集中する",
+    "example": "I find it hard to concentrate in a noisy room.",
+    "exampleTranslation": "うるさい部屋では集中するのが難しい。"
+  },
+  {
+    "id": "concept",
+    "term": "concept",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "概念、考え方",
+    "translation": "概念",
+    "example": "The concept of human rights is important.",
+    "exampleTranslation": "人権という概念は重要である。"
+  },
+  {
+    "id": "concern",
+    "term": "concern",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "心配、関心",
+    "translation": "関心事",
+    "example": "Her main concern is her children's safety.",
+    "exampleTranslation": "彼女の最大の関心事は子どもたちの安全である。"
+  },
+  {
+    "id": "concert",
+    "term": "concert",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "コンサート、演奏会",
+    "translation": "コンサート",
+    "example": "We went to a classical music concert.",
+    "exampleTranslation": "私たちはクラシック音楽のコンサートに行った。"
+  },
+  {
+    "id": "conclude",
+    "term": "conclude",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "結論を出す、終える",
+    "translation": "結論づける",
+    "example": "The researchers concluded that the drug was effective.",
+    "exampleTranslation": "研究者たちはその薬が有効だと結論づけた。"
+  },
+  {
+    "id": "conclusion",
+    "term": "conclusion",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "結論",
+    "translation": "結論",
+    "example": "In conclusion, I believe we should act now.",
+    "exampleTranslation": "結論として、私たちは今行動すべきだと思います。"
+  },
+  {
+    "id": "condition",
+    "term": "condition",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "状態、条件",
+    "translation": "状態",
+    "example": "The car is in good condition.",
+    "exampleTranslation": "その車は状態がよい。"
+  },
+  {
+    "id": "conduct",
+    "term": "conduct",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "行う、実施する",
+    "translation": "行う",
+    "example": "The survey was conducted by a research company.",
+    "exampleTranslation": "その調査はリサーチ会社によって行われた。"
+  },
+  {
+    "id": "conference",
+    "term": "conference",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "会議、学会",
+    "translation": "会議",
+    "example": "An international conference will be held in Kyoto.",
+    "exampleTranslation": "国際会議が京都で開催される。"
+  },
+  {
+    "id": "confidence",
+    "term": "confidence",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "自信、信頼",
+    "translation": "自信",
+    "example": "She spoke with confidence in front of the audience.",
+    "exampleTranslation": "彼女は聴衆の前で自信を持って話した。"
+  },
+  {
+    "id": "confident",
+    "term": "confident",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "自信がある、確信して",
+    "translation": "自信がある",
+    "example": "He is confident of passing the exam.",
+    "exampleTranslation": "彼は試験に合格すると自信を持っている。"
+  },
+  {
+    "id": "confirm",
+    "term": "confirm",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "確認する、裏づける",
+    "translation": "確認する",
+    "example": "Please confirm your reservation by email.",
+    "exampleTranslation": "メールで予約を確認してください。"
+  },
+  {
+    "id": "conflict",
+    "term": "conflict",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "対立、紛争",
+    "translation": "対立",
+    "example": "There is a conflict between the two countries.",
+    "exampleTranslation": "両国の間に対立がある。"
+  },
+  {
+    "id": "confuse",
+    "term": "confuse",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "混乱させる、混同する",
+    "translation": "混乱させる",
+    "example": "The similar words often confuse learners.",
+    "exampleTranslation": "似た単語は学習者をよく混乱させる。"
+  },
+  {
+    "id": "connect",
+    "term": "connect",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "つなぐ、接続する",
+    "translation": "つなぐ",
+    "example": "This road connects the two towns.",
+    "exampleTranslation": "この道路は2つの町をつないでいる。"
+  },
+  {
+    "id": "conscious",
+    "term": "conscious",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "意識している、意識のある",
+    "translation": "意識している",
+    "example": "She was conscious of being watched.",
+    "exampleTranslation": "彼女は見られていることに気づいていた。"
+  },
+  {
+    "id": "consequence",
+    "term": "consequence",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "結果、重大さ",
+    "translation": "結果",
+    "example": "As a consequence of the drought, food prices rose.",
+    "exampleTranslation": "干ばつの結果、食料価格が上昇した。"
+  },
+  {
+    "id": "consist",
+    "term": "consist",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "（〜から）構成される、なる",
+    "translation": "構成される",
+    "example": "The team consists of ten members.",
+    "exampleTranslation": "そのチームは10人のメンバーから構成されている。"
+  },
+  {
+    "id": "constant",
+    "term": "constant",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "絶え間ない、一定の",
+    "translation": "絶え間ない",
+    "example": "The patient's condition requires constant care.",
+    "exampleTranslation": "その患者の状態には絶え間ない看護が必要である。"
+  },
+  {
+    "id": "construct",
+    "term": "construct",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "建設する、組み立てる",
+    "translation": "建設する",
+    "example": "They are constructing a new bridge over the river.",
+    "exampleTranslation": "彼らは川に新しい橋を建設している。"
+  },
+  {
+    "id": "consult",
+    "term": "consult",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "相談する、（辞書などを）調べる",
+    "translation": "相談する",
+    "example": "You should consult a doctor if the pain continues.",
+    "exampleTranslation": "痛みが続くようなら医者に相談すべきです。"
+  },
+  {
+    "id": "contact",
+    "term": "contact",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "連絡、接触",
+    "translation": "連絡",
+    "example": "Please contact us if you have any questions.",
+    "exampleTranslation": "質問があれば私たちに連絡してください。"
+  },
+  {
+    "id": "contain",
+    "term": "contain",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "含む、収容する",
+    "translation": "含む",
+    "example": "This juice contains a lot of vitamin C.",
+    "exampleTranslation": "このジュースにはビタミンCがたくさん含まれている。"
+  },
+  {
+    "id": "content",
+    "term": "content",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "内容、中身",
+    "translation": "内容",
+    "example": "The content of the lecture was very interesting.",
+    "exampleTranslation": "講義の内容はとても興味深かった。"
+  },
+  {
+    "id": "contest",
+    "term": "contest",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "コンテスト、競争",
+    "translation": "コンテスト",
+    "example": "He entered a photography contest.",
+    "exampleTranslation": "彼は写真コンテストに参加した。"
+  },
+  {
+    "id": "context",
+    "term": "context",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "文脈、背景",
+    "translation": "文脈",
+    "example": "You can guess the meaning of the word from the context.",
+    "exampleTranslation": "文脈からその単語の意味を推測できる。"
+  },
+  {
+    "id": "continent",
+    "term": "continent",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "大陸",
+    "translation": "大陸",
+    "example": "Africa is the second largest continent in the world.",
+    "exampleTranslation": "アフリカは世界で2番目に大きな大陸である。"
+  },
+  {
+    "id": "contract",
+    "term": "contract",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "契約、契約する",
+    "translation": "契約",
+    "example": "He signed a contract with the company.",
+    "exampleTranslation": "彼はその会社と契約を結んだ。"
+  },
+  {
+    "id": "contrast",
+    "term": "contrast",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "対比、対照",
+    "translation": "対照",
+    "example": "There is a sharp contrast between the two pictures.",
+    "exampleTranslation": "2枚の写真にははっきりした対照がある。"
+  },
+  {
+    "id": "control",
+    "term": "control",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "統制、管理（する）",
+    "translation": "管理",
+    "example": "The pilot lost control of the plane.",
+    "exampleTranslation": "パイロットは飛行機の制御を失った。"
+  },
+  {
+    "id": "convenient",
+    "term": "convenient",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "便利な、都合のよい",
+    "translation": "便利な",
+    "example": "Email is a convenient way to keep in touch.",
+    "exampleTranslation": "メールは連絡を取り合う便利な方法だ。"
+  },
+  {
+    "id": "conversation",
+    "term": "conversation",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "会話",
+    "translation": "会話",
+    "example": "I enjoyed the conversation with my old friend.",
+    "exampleTranslation": "旧友との会話を楽しんだ。"
+  },
+  {
+    "id": "convince",
+    "term": "convince",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "納得させる、確信させる",
+    "translation": "納得させる",
+    "example": "He convinced me to join the team.",
+    "exampleTranslation": "彼は私を説得してチームに入らせた。"
+  },
+  {
+    "id": "cooperate",
+    "term": "cooperate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "協力する",
+    "translation": "協力する",
+    "example": "The two companies agreed to cooperate with each other.",
+    "exampleTranslation": "2社は互いに協力することに合意した。"
+  },
+  {
+    "id": "cope",
+    "term": "cope",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "うまく処理する、対処する",
+    "translation": "対処する",
+    "example": "She learned to cope with stress.",
+    "exampleTranslation": "彼女はストレスに対処する方法を学んだ。"
+  },
+  {
+    "id": "core",
+    "term": "core",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "核心、中心",
+    "translation": "核心",
+    "example": "Honesty is at the core of any good relationship.",
+    "exampleTranslation": "正直さはあらゆる良い関係の核心にある。"
+  },
+  {
+    "id": "correct",
+    "term": "correct",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "正しい、訂正する",
+    "translation": "正しい",
+    "example": "Your answer is correct.",
+    "exampleTranslation": "あなたの答えは正しい。"
+  },
+  {
+    "id": "cost",
+    "term": "cost",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "費用、（金が）かかる",
+    "translation": "費用",
+    "example": "The trip cost more than we had expected.",
+    "exampleTranslation": "旅行は予想以上に費用がかかった。"
+  },
+  {
+    "id": "council",
+    "term": "council",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "議会、評議会",
+    "translation": "議会",
+    "example": "The city council approved the new budget.",
+    "exampleTranslation": "市議会は新しい予算を承認した。"
+  },
+  {
+    "id": "count",
+    "term": "count",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "数える、重要である",
+    "translation": "数える",
+    "example": "Every vote counts in this election.",
+    "exampleTranslation": "この選挙では一票一票が重要だ。"
+  },
+  {
+    "id": "course",
+    "term": "course",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "進路、課程",
+    "translation": "進路",
+    "example": "Of course, I will help you.",
+    "exampleTranslation": "もちろん、お手伝いします。"
+  },
+  {
+    "id": "court",
+    "term": "court",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "裁判所、法廷",
+    "translation": "裁判所",
+    "example": "The case will be decided in court.",
+    "exampleTranslation": "その事件は法廷で裁かれる。"
+  },
+  {
+    "id": "cover",
+    "term": "cover",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "覆う、扱う",
+    "translation": "覆う",
+    "example": "Snow covered the mountains.",
+    "exampleTranslation": "雪が山々を覆った。"
+  },
+  {
+    "id": "craft",
+    "term": "craft",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "工芸、技術",
+    "translation": "工芸",
+    "example": "This village is famous for its traditional crafts.",
+    "exampleTranslation": "この村は伝統工芸で有名である。"
+  },
+  {
+    "id": "crash",
+    "term": "crash",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "衝突する、墜落する",
+    "translation": "衝突する",
+    "example": "Two cars crashed on the highway last night.",
+    "exampleTranslation": "昨夜、高速道路で車2台が衝突した。"
+  },
+  {
+    "id": "crazy",
+    "term": "crazy",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "夢中な、熱狂した",
+    "translation": "夢中な",
+    "example": "He is crazy about playing the guitar.",
+    "exampleTranslation": "彼はギターを弾くことに夢中である。"
+  },
+  {
+    "id": "creative",
+    "term": "creative",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "創造的な、独創的な",
+    "translation": "創造的な",
+    "example": "She has a creative way of solving problems.",
+    "exampleTranslation": "彼女は問題を解決する独創的な方法を持っている。"
+  },
+  {
+    "id": "creature",
+    "term": "creature",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "生き物、生物",
+    "translation": "生き物",
+    "example": "All living creatures need water.",
+    "exampleTranslation": "すべての生き物には水が必要である。"
+  },
+  {
+    "id": "credit",
+    "term": "credit",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "信用、クレジット",
+    "translation": "信用",
+    "example": "Can I pay by credit card?",
+    "exampleTranslation": "クレジットカードで払えますか。"
+  },
+  {
+    "id": "crew",
+    "term": "crew",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "乗組員、スタッフ",
+    "translation": "乗組員",
+    "example": "The ship's crew consisted of twenty sailors.",
+    "exampleTranslation": "船の乗組員は20人の船員からなっていた。"
+  },
+  {
+    "id": "crime",
+    "term": "crime",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "犯罪、罪",
+    "translation": "犯罪",
+    "example": "The police are working to reduce crime in the area.",
+    "exampleTranslation": "警察はその地域の犯罪を減らすために取り組んでいる。"
+  },
+  {
+    "id": "crisis",
+    "term": "crisis",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "危機",
+    "translation": "危機",
+    "example": "The country faced a serious economic crisis.",
+    "exampleTranslation": "その国は深刻な経済危機に直面した。"
+  },
+  {
+    "id": "critic",
+    "term": "critic",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "批評家、批判者",
+    "translation": "批評家",
+    "example": "The film received high praise from critics.",
+    "exampleTranslation": "その映画は批評家から高い評価を受けた。"
+  },
+  {
+    "id": "criticism",
+    "term": "criticism",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "批判、批評",
+    "translation": "批判",
+    "example": "He accepted the criticism of his work calmly.",
+    "exampleTranslation": "彼は自分の仕事への批判を冷静に受け止めた。"
+  },
+  {
+    "id": "crop",
+    "term": "crop",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "作物、収穫",
+    "translation": "作物",
+    "example": "Rice is the main crop in this region.",
+    "exampleTranslation": "米はこの地域の主な作物である。"
+  },
+  {
+    "id": "crowd",
+    "term": "crowd",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "群衆、人混み",
+    "translation": "群衆",
+    "example": "A large crowd gathered in front of the station.",
+    "exampleTranslation": "駅前に大勢の群衆が集まった。"
+  },
+  {
+    "id": "crucial",
+    "term": "crucial",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "決定的に重要な",
+    "translation": "決定的に重要な",
+    "example": "The next few days will be crucial for the project.",
+    "exampleTranslation": "次の数日間がそのプロジェクトにとって決定的に重要になる。"
+  },
+  {
+    "id": "cruel",
+    "term": "cruel",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "残酷な、無情な",
+    "translation": "残酷な",
+    "example": "It is cruel to keep animals in small cages.",
+    "exampleTranslation": "動物を小さな檻に入れておくのは残酷だ。"
+  },
+  {
+    "id": "cure",
+    "term": "cure",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "治療する、治療法",
+    "translation": "治療する",
+    "example": "There is no known cure for this disease.",
+    "exampleTranslation": "この病気の治療法は知られていない。"
+  },
+  {
+    "id": "current",
+    "term": "current",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "現在の、流れ",
+    "translation": "現在の",
+    "example": "The current situation is very difficult.",
+    "exampleTranslation": "現在の状況は非常に厳しい。"
+  },
+  {
+    "id": "curtain",
+    "term": "curtain",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "カーテン、幕",
+    "translation": "カーテン",
+    "example": "She opened the curtain to let in the light.",
+    "exampleTranslation": "彼女は光を入れるためにカーテンを開けた。"
+  },
+  {
+    "id": "curve",
+    "term": "curve",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "曲線、カーブ",
+    "translation": "曲線",
+    "example": "The road curves sharply to the left.",
+    "exampleTranslation": "その道は左へ急に曲がっている。"
+  },
+  {
+    "id": "custom",
+    "term": "custom",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "習慣、風習",
+    "translation": "習慣",
+    "example": "Shaking hands is a common custom in Western countries.",
+    "exampleTranslation": "握手は西洋の国々で一般的な習慣である。"
+  },
+  {
+    "id": "customer",
+    "term": "customer",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "顧客、客",
+    "translation": "客",
+    "example": "The store is always full of customers.",
+    "exampleTranslation": "その店はいつも客でいっぱいだ。"
+  },
+  {
+    "id": "damage",
+    "term": "damage",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "損害、損傷；〜に損害を与える",
+    "translation": "損害",
+    "example": "The storm caused serious damage to the crops.",
+    "exampleTranslation": "嵐は農作物に深刻な被害を与えた。"
+  },
+  {
+    "id": "debate",
+    "term": "debate",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "討論、討論する",
+    "translation": "討論",
+    "example": "The class had a heated debate about school rules.",
+    "exampleTranslation": "クラスでは校則について活発な討論が行われた。"
+  },
+  {
+    "id": "debt",
+    "term": "debt",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "借金、負債",
+    "translation": "借金",
+    "example": "He worked hard for years to pay off his debt.",
+    "exampleTranslation": "彼は借金を返済するために何年も懸命に働いた。"
+  },
+  {
+    "id": "decade",
+    "term": "decade",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "10年間",
+    "translation": "10年",
+    "example": "She has lived in this town for over a decade.",
+    "exampleTranslation": "彼女は10年以上この町に住んでいる。"
+  },
+  {
+    "id": "declare",
+    "term": "declare",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "宣言する、申告する",
+    "translation": "宣言する",
+    "example": "You must declare any food items at customs.",
+    "exampleTranslation": "税関では食品を申告しなければならない。"
+  },
+  {
+    "id": "decline",
+    "term": "decline",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "減少する、辞退する",
+    "translation": "減少する",
+    "example": "Sales have declined steadily over the past year.",
+    "exampleTranslation": "売上はこの1年、着実に減少している。"
+  },
+  {
+    "id": "decrease",
+    "term": "decrease",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "減少する、減少",
+    "translation": "減少",
+    "example": "The population of the village is decreasing every year.",
+    "exampleTranslation": "その村の人口は毎年減っている。"
+  },
+  {
+    "id": "defeat",
+    "term": "defeat",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "打ち負かす、敗北",
+    "translation": "敗北",
+    "example": "Our team defeated the champions in the final.",
+    "exampleTranslation": "私たちのチームは決勝で優勝チームを破った。"
+  },
+  {
+    "id": "defend",
+    "term": "defend",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "守る、弁護する",
+    "translation": "守る",
+    "example": "The soldiers defended the city bravely.",
+    "exampleTranslation": "兵士たちは勇敢に街を守った。"
+  },
+  {
+    "id": "define",
+    "term": "define",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "定義する、明確にする",
+    "translation": "定義する",
+    "example": "It is difficult to define what happiness is.",
+    "exampleTranslation": "幸福とは何かを定義するのは難しい。"
+  },
+  {
+    "id": "definition",
+    "term": "definition",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "定義",
+    "translation": "定義",
+    "example": "Look up the definition of this word in the dictionary.",
+    "exampleTranslation": "辞書でこの語の定義を調べなさい。"
+  },
+  {
+    "id": "degree",
+    "term": "degree",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "程度、学位、度",
+    "translation": "程度",
+    "example": "She earned a degree in economics from a famous university.",
+    "exampleTranslation": "彼女は有名大学で経済学の学位を取得した。"
+  },
+  {
+    "id": "delay",
+    "term": "delay",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "遅らせる、遅延",
+    "translation": "遅れ",
+    "example": "The flight was delayed by heavy snow.",
+    "exampleTranslation": "その便は大雪のために遅れた。"
+  },
+  {
+    "id": "deliver",
+    "term": "deliver",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "配達する、届ける",
+    "translation": "配達する",
+    "example": "The package will be delivered tomorrow morning.",
+    "exampleTranslation": "その荷物は明日の朝に配達される。"
+  },
+  {
+    "id": "demand",
+    "term": "demand",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "需要、要求する",
+    "translation": "需要",
+    "example": "There is a growing demand for electric vehicles.",
+    "exampleTranslation": "電気自動車への需要が高まっている。"
+  },
+  {
+    "id": "democracy",
+    "term": "democracy",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "民主主義",
+    "translation": "民主主義",
+    "example": "In a democracy, citizens choose their leaders through elections.",
+    "exampleTranslation": "民主主義においては、市民は選挙を通じて指導者を選ぶ。"
+  },
+  {
+    "id": "demonstrate",
+    "term": "demonstrate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "証明する、実演する",
+    "translation": "実証する",
+    "example": "The experiment demonstrates how plants grow.",
+    "exampleTranslation": "その実験は植物がどのように育つかを実証している。"
+  },
+  {
+    "id": "deny",
+    "term": "deny",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "否定する、拒む",
+    "translation": "否定する",
+    "example": "He denied stealing the money.",
+    "exampleTranslation": "彼はお金を盗んだことを否定した。"
+  },
+  {
+    "id": "depart",
+    "term": "depart",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "出発する",
+    "translation": "出発する",
+    "example": "The train departs at nine in the morning.",
+    "exampleTranslation": "その列車は朝9時に出発する。"
+  },
+  {
+    "id": "deposit",
+    "term": "deposit",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "預金、保証金；預ける",
+    "translation": "預金",
+    "example": "We paid a deposit of 100 dollars when we rented the car.",
+    "exampleTranslation": "レンタカーを借りるときに、100ドルの保証金を支払った。"
+  },
+  {
+    "id": "depression",
+    "term": "depression",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "不況、憂うつ",
+    "translation": "不況",
+    "example": "The country suffered a severe economic depression in the 1930s.",
+    "exampleTranslation": "その国は1930年代に深刻な経済不況に見舞われた。"
+  },
+  {
+    "id": "depth",
+    "term": "depth",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "深さ",
+    "translation": "深さ",
+    "example": "The depth of this lake is about 20 meters.",
+    "exampleTranslation": "この湖の深さは約20メートルだ。"
+  },
+  {
+    "id": "describe",
+    "term": "describe",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "描写する、説明する",
+    "translation": "説明する",
+    "example": "Can you describe what the man looked like?",
+    "exampleTranslation": "その男性がどんな見た目だったか説明できますか。"
+  },
+  {
+    "id": "desert",
+    "term": "desert",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "砂漠",
+    "translation": "砂漠",
+    "example": "The Sahara is the largest hot desert in the world.",
+    "exampleTranslation": "サハラ砂漠は世界で最も大きな熱い砂漠だ。"
+  },
+  {
+    "id": "deserve",
+    "term": "deserve",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "〜に値する",
+    "translation": "値する",
+    "example": "After all your hard work, you deserve a rest.",
+    "exampleTranslation": "あれだけ頑張ったのだから、あなたは休むに値する。"
+  },
+  {
+    "id": "design",
+    "term": "design",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "設計する、デザイン",
+    "translation": "設計",
+    "example": "This building was designed by a famous architect.",
+    "exampleTranslation": "この建物は有名な建築家によって設計された。"
+  },
+  {
+    "id": "despite",
+    "term": "despite",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "〜にもかかわらず",
+    "translation": "にもかかわらず",
+    "example": "Despite the rain, the match continued.",
+    "exampleTranslation": "雨にもかかわらず、試合は続けられた。"
+  },
+  {
+    "id": "destination",
+    "term": "destination",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "目的地",
+    "translation": "目的地",
+    "example": "We finally arrived at our destination after a long journey.",
+    "exampleTranslation": "長い旅の末、私たちはついに目的地に到着した。"
+  },
+  {
+    "id": "destroy",
+    "term": "destroy",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "破壊する",
+    "translation": "破壊する",
+    "example": "The earthquake destroyed many old buildings.",
+    "exampleTranslation": "その地震は多くの古い建物を破壊した。"
+  },
+  {
+    "id": "detail",
+    "term": "detail",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "詳細、細部",
+    "translation": "詳細",
+    "example": "Please explain the plan in detail.",
+    "exampleTranslation": "その計画を詳しく説明してください。"
+  },
+  {
+    "id": "detect",
+    "term": "detect",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "探知する、見つける",
+    "translation": "感知する",
+    "example": "The sensor can detect even a small change in temperature.",
+    "exampleTranslation": "そのセンサーは小さな温度変化も感知できる。"
+  },
+  {
+    "id": "determine",
+    "term": "determine",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "決定する、決心する",
+    "translation": "決める",
+    "example": "She is determined to pass the entrance exam.",
+    "exampleTranslation": "彼女は入学試験に合格しようと固く決心している。"
+  },
+  {
+    "id": "device",
+    "term": "device",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "装置、機器",
+    "translation": "装置",
+    "example": "This device measures air pollution in real time.",
+    "exampleTranslation": "この装置は大気汚染をリアルタイムで測定する。"
+  },
+  {
+    "id": "devote",
+    "term": "devote",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "（時間・努力などを）捧げる",
+    "translation": "捧げる",
+    "example": "He devoted his life to helping poor children.",
+    "exampleTranslation": "彼は貧しい子どもたちを助けることに生涯を捧げた。"
+  },
+  {
+    "id": "diagram",
+    "term": "diagram",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "図、図表",
+    "translation": "図表",
+    "example": "This diagram shows how the machine works.",
+    "exampleTranslation": "この図はその機械の仕組みを示している。"
+  },
+  {
+    "id": "dialogue",
+    "term": "dialogue",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "対話、会話",
+    "translation": "対話",
+    "example": "The two countries began a dialogue to solve the problem.",
+    "exampleTranslation": "両国は問題を解決するために対話を始めた。"
+  },
+  {
+    "id": "diary",
+    "term": "diary",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "日記",
+    "translation": "日記",
+    "example": "She writes in her diary every night before bed.",
+    "exampleTranslation": "彼女は毎晩寝る前に日記を書く。"
+  },
+  {
+    "id": "diet",
+    "term": "diet",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "食事、食生活；ダイエット",
+    "translation": "食事",
+    "example": "A balanced diet is important for good health.",
+    "exampleTranslation": "バランスの取れた食事は健康のために大切だ。"
+  },
+  {
+    "id": "differ",
+    "term": "differ",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "異なる",
+    "translation": "異なる",
+    "example": "Opinions differ from person to person.",
+    "exampleTranslation": "意見は人によって異なる。"
+  },
+  {
+    "id": "difference",
+    "term": "difference",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "違い、差",
+    "translation": "違い",
+    "example": "There is a big difference between the two plans.",
+    "exampleTranslation": "その2つの計画には大きな違いがある。"
+  },
+  {
+    "id": "digital",
+    "term": "digital",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "デジタルの",
+    "translation": "デジタル",
+    "example": "Digital technology has changed our daily lives.",
+    "exampleTranslation": "デジタル技術は私たちの日常生活を変えた。"
+  },
+  {
+    "id": "direct",
+    "term": "direct",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "直接の、指示する",
+    "translation": "直接の",
+    "example": "Please take a direct flight to London.",
+    "exampleTranslation": "ロンドンへの直行便を利用してください。"
+  },
+  {
+    "id": "direction",
+    "term": "direction",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "方向、指示",
+    "translation": "方向",
+    "example": "The wind is blowing in the opposite direction.",
+    "exampleTranslation": "風は反対の方向に吹いている。"
+  },
+  {
+    "id": "director",
+    "term": "director",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "監督、取締役",
+    "translation": "監督",
+    "example": "He works as a film director in Hollywood.",
+    "exampleTranslation": "彼はハリウッドで映画監督として働いている。"
+  },
+  {
+    "id": "disabled",
+    "term": "disabled",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "障害のある",
+    "translation": "障害のある",
+    "example": "The building has special facilities for disabled people.",
+    "exampleTranslation": "その建物には障害のある人のための特別な設備がある。"
+  },
+  {
+    "id": "disagree",
+    "term": "disagree",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "意見が合わない、反対する",
+    "translation": "反対する",
+    "example": "I disagree with his opinion on this issue.",
+    "exampleTranslation": "この問題に関する彼の意見には反対だ。"
+  },
+  {
+    "id": "disappear",
+    "term": "disappear",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "消える、姿を消す",
+    "translation": "消える",
+    "example": "The sun disappeared behind the clouds.",
+    "exampleTranslation": "太陽は雲の後ろに消えた。"
+  },
+  {
+    "id": "disaster",
+    "term": "disaster",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "災害",
+    "translation": "災害",
+    "example": "The flood was the worst disaster in the region's history.",
+    "exampleTranslation": "その洪水はその地域の歴史上最悪の災害だった。"
+  },
+  {
+    "id": "discipline",
+    "term": "discipline",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "規律、しつけ；学問分野",
+    "translation": "規律",
+    "example": "Self-discipline is necessary to achieve your goals.",
+    "exampleTranslation": "目標を達成するには自己規律が必要だ。"
+  },
+  {
+    "id": "discount",
+    "term": "discount",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "割引",
+    "translation": "割引",
+    "example": "Students can get a discount on train tickets.",
+    "exampleTranslation": "学生は電車の切符を割引価格で買える。"
+  },
+  {
+    "id": "discuss",
+    "term": "discuss",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "話し合う、議論する",
+    "translation": "議論する",
+    "example": "We discussed the problem with our teacher.",
+    "exampleTranslation": "私たちは先生とその問題について話し合った。"
+  },
+  {
+    "id": "discussion",
+    "term": "discussion",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "議論、話し合い",
+    "translation": "議論",
+    "example": "After a long discussion, they reached an agreement.",
+    "exampleTranslation": "長い議論の末、彼らは合意に達した。"
+  },
+  {
+    "id": "disease",
+    "term": "disease",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "病気",
+    "translation": "病気",
+    "example": "Clean water is essential to prevent disease.",
+    "exampleTranslation": "病気を防ぐためには清潔な水が不可欠だ。"
+  },
+  {
+    "id": "display",
+    "term": "display",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "展示する、表示する",
+    "translation": "展示する",
+    "example": "The museum displays works by local artists.",
+    "exampleTranslation": "その博物館は地元の芸術家の作品を展示している。"
+  },
+  {
+    "id": "distance",
+    "term": "distance",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "距離",
+    "translation": "距離",
+    "example": "The distance between the two cities is about 300 kilometers.",
+    "exampleTranslation": "その2都市間の距離は約300キロメートルだ。"
+  },
+  {
+    "id": "distinct",
+    "term": "distinct",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "明確な、はっきり異なる",
+    "translation": "明確な",
+    "example": "The two species have distinct features.",
+    "exampleTranslation": "その2つの種には明確に異なる特徴がある。"
+  },
+  {
+    "id": "distinguish",
+    "term": "distinguish",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "区別する、見分ける",
+    "translation": "区別する",
+    "example": "It is hard to distinguish the twins from each other.",
+    "exampleTranslation": "その双子同士を見分けるのは難しい。"
+  },
+  {
+    "id": "distribute",
+    "term": "distribute",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "配る、分配する",
+    "translation": "分配する",
+    "example": "Volunteers distributed food to the victims.",
+    "exampleTranslation": "ボランティアが被災者に食料を配った。"
+  },
+  {
+    "id": "district",
+    "term": "district",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "地区、地域",
+    "translation": "地区",
+    "example": "This district is famous for its old temples.",
+    "exampleTranslation": "この地区は古いお寺で有名だ。"
+  },
+  {
+    "id": "divide",
+    "term": "divide",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "分ける、割る",
+    "translation": "分ける",
+    "example": "Let's divide the cake into six equal pieces.",
+    "exampleTranslation": "ケーキを6等分しよう。"
+  },
+  {
+    "id": "document",
+    "term": "document",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "文書、書類",
+    "translation": "書類",
+    "example": "Please sign all the documents before Friday.",
+    "exampleTranslation": "金曜日までにすべての書類に署名してください。"
+  },
+  {
+    "id": "domestic",
+    "term": "domestic",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "国内の、家庭の",
+    "translation": "国内の",
+    "example": "Domestic flights are cheaper than international ones.",
+    "exampleTranslation": "国内便は国際便よりも安い。"
+  },
+  {
+    "id": "doubt",
+    "term": "doubt",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "疑う、疑い",
+    "translation": "疑い",
+    "example": "I doubt whether he will come on time.",
+    "exampleTranslation": "彼が時間どおりに来るかどうか疑わしい。"
+  },
+  {
+    "id": "dozen",
+    "term": "dozen",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "ダース、12個",
+    "translation": "ダース",
+    "example": "She bought a dozen eggs at the supermarket.",
+    "exampleTranslation": "彼女はスーパーで卵を1ダース買った。"
+  },
+  {
+    "id": "draft",
+    "term": "draft",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "下書き、草案",
+    "translation": "下書き",
+    "example": "I wrote the first draft of my essay yesterday.",
+    "exampleTranslation": "私は昨日、作文の最初の下書きを書いた。"
+  },
+  {
+    "id": "drag",
+    "term": "drag",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "引きずる",
+    "translation": "引きずる",
+    "example": "He dragged the heavy box across the floor.",
+    "exampleTranslation": "彼は重い箱を床の上で引きずった。"
+  },
+  {
+    "id": "drama",
+    "term": "drama",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "ドラマ、演劇",
+    "translation": "演劇",
+    "example": "She has loved drama since she was a child.",
+    "exampleTranslation": "彼女は子どもの頃から演劇が大好きだ。"
+  },
+  {
+    "id": "due",
+    "term": "due",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "〜の予定で、〜が原因で",
+    "translation": "予定で",
+    "example": "The train is due to arrive at noon.",
+    "exampleTranslation": "その列車は正午に到着する予定だ。"
+  },
+  {
+    "id": "duty",
+    "term": "duty",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "義務、職務",
+    "translation": "義務",
+    "example": "It is our duty to protect the environment.",
+    "exampleTranslation": "環境を守ることは私たちの義務だ。"
+  },
+  {
+    "id": "eager",
+    "term": "eager",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "しきりに〜したがって、熱心な",
+    "translation": "熱心な",
+    "example": "The students were eager to learn about space.",
+    "exampleTranslation": "生徒たちは宇宙について学びたくてたまらなかった。"
+  },
+  {
+    "id": "earn",
+    "term": "earn",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "稼ぐ、得る",
+    "translation": "稼ぐ",
+    "example": "He earns a living by teaching English.",
+    "exampleTranslation": "彼は英語を教えることで生計を立てている。"
+  },
+  {
+    "id": "ease",
+    "term": "ease",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "容易さ；楽にする",
+    "translation": "容易さ",
+    "example": "She passed the test with ease.",
+    "exampleTranslation": "彼女は楽々とそのテストに合格した。"
+  },
+  {
+    "id": "economic",
+    "term": "economic",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "経済の",
+    "translation": "経済の",
+    "example": "The country is facing serious economic problems.",
+    "exampleTranslation": "その国は深刻な経済問題に直面している。"
+  },
+  {
+    "id": "economy",
+    "term": "economy",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "経済",
+    "translation": "経済",
+    "example": "Tourism is important for the local economy.",
+    "exampleTranslation": "観光業は地域経済にとって重要だ。"
+  },
+  {
+    "id": "edge",
+    "term": "edge",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "端、縁",
+    "translation": "端",
+    "example": "Be careful not to fall off the edge of the cliff.",
+    "exampleTranslation": "崖の端から落ちないように気をつけなさい。"
+  },
+  {
+    "id": "educate",
+    "term": "educate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "教育する",
+    "translation": "教育する",
+    "example": "Parents have a responsibility to educate their children.",
+    "exampleTranslation": "親には子どもを教育する責任がある。"
+  },
+  {
+    "id": "education",
+    "term": "education",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "教育",
+    "translation": "教育",
+    "example": "Education plays a key role in reducing poverty.",
+    "exampleTranslation": "教育は貧困を減らすうえで重要な役割を果たす。"
+  },
+  {
+    "id": "effect",
+    "term": "effect",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "影響、効果",
+    "translation": "効果",
+    "example": "Exercise has a positive effect on your health.",
+    "exampleTranslation": "運動は健康に良い影響を与える。"
+  },
+  {
+    "id": "effective",
+    "term": "effective",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "効果的な",
+    "translation": "効果的な",
+    "example": "This is an effective way to learn new words.",
+    "exampleTranslation": "これは新しい単語を覚えるための効果的な方法だ。"
+  },
+  {
+    "id": "effort",
+    "term": "effort",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "努力",
+    "translation": "努力",
+    "example": "Success requires time and effort.",
+    "exampleTranslation": "成功には時間と努力が必要だ。"
+  },
+  {
+    "id": "either",
+    "term": "either",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "どちらか一方の；〜も（否定文で）",
+    "translation": "どちらか",
+    "example": "You can take either of the two buses.",
+    "exampleTranslation": "2台のバスのどちらに乗ってもよい。"
+  },
+  {
+    "id": "elderly",
+    "term": "elderly",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "年配の、高齢の",
+    "translation": "高齢の",
+    "example": "The elderly need more support from the community.",
+    "exampleTranslation": "高齢者は地域社会からの支援をより必要としている。"
+  },
+  {
+    "id": "elect",
+    "term": "elect",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "選挙で選ぶ",
+    "translation": "選出する",
+    "example": "The citizens elected a new mayor last year.",
+    "exampleTranslation": "市民は昨年、新しい市長を選出した。"
+  },
+  {
+    "id": "election",
+    "term": "election",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "選挙",
+    "translation": "選挙",
+    "example": "The election will be held next month.",
+    "exampleTranslation": "その選挙は来月行われる。"
+  },
+  {
+    "id": "element",
+    "term": "element",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "要素、元素",
+    "translation": "要素",
+    "example": "Trust is an essential element of friendship.",
+    "exampleTranslation": "信頼は友情に不可欠な要素だ。"
+  },
+  {
+    "id": "else",
+    "term": "else",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "そのほかに、それ以外に",
+    "translation": "ほかに",
+    "example": "Is there anything else I can do for you?",
+    "exampleTranslation": "ほかに私にできることはありますか。"
+  },
+  {
+    "id": "embarrass",
+    "term": "embarrass",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "恥ずかしい思いをさせる、困らせる",
+    "translation": "困らせる",
+    "example": "His rude question embarrassed her in front of everyone.",
+    "exampleTranslation": "彼の失礼な質問は、皆の前で彼女に恥ずかしい思いをさせた。"
+  },
+  {
+    "id": "emerge",
+    "term": "emerge",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "現れる、出現する",
+    "translation": "現れる",
+    "example": "New problems emerged during the project.",
+    "exampleTranslation": "その計画の途中で新たな問題が浮上した。"
+  },
+  {
+    "id": "emergency",
+    "term": "emergency",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "緊急事態",
+    "translation": "緊急",
+    "example": "Please call an ambulance in an emergency.",
+    "exampleTranslation": "緊急時には救急車を呼んでください。"
+  },
+  {
+    "id": "emotion",
+    "term": "emotion",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "感情",
+    "translation": "感情",
+    "example": "Music can express emotions that words cannot.",
+    "exampleTranslation": "音楽は言葉では表せない感情を表現できる。"
+  },
+  {
+    "id": "emphasis",
+    "term": "emphasis",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "強調、重点",
+    "translation": "強調",
+    "example": "Our school puts emphasis on communication skills.",
+    "exampleTranslation": "私たちの学校はコミュニケーション能力に重点を置いている。"
+  },
+  {
+    "id": "emphasize",
+    "term": "emphasize",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "強調する",
+    "translation": "強調する",
+    "example": "The teacher emphasized the importance of reading.",
+    "exampleTranslation": "先生は読書の大切さを強調した。"
+  },
+  {
+    "id": "employ",
+    "term": "employ",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "雇う、用いる",
+    "translation": "雇う",
+    "example": "The factory employs over 500 workers.",
+    "exampleTranslation": "その工場は500人以上の労働者を雇っている。"
+  },
+  {
+    "id": "employee",
+    "term": "employee",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "従業員、被雇用者",
+    "translation": "従業員",
+    "example": "The company treats its employees well.",
+    "exampleTranslation": "その会社は従業員を大切に扱っている。"
+  },
+  {
+    "id": "employer",
+    "term": "employer",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "雇用主",
+    "translation": "雇用主",
+    "example": "His employer gave him a week off.",
+    "exampleTranslation": "彼の雇用主は彼に1週間の休みを与えた。"
+  },
+  {
+    "id": "empty",
+    "term": "empty",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "空の、何もない",
+    "translation": "空の",
+    "example": "The streets were almost empty at midnight.",
+    "exampleTranslation": "真夜中の通りにはほとんど人影がなかった。"
+  },
+  {
+    "id": "enable",
+    "term": "enable",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "〜を可能にする",
+    "translation": "可能にする",
+    "example": "This app enables students to study anywhere.",
+    "exampleTranslation": "このアプリは生徒がどこでも勉強できるようにしてくれる。"
+  },
+  {
+    "id": "encounter",
+    "term": "encounter",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "出会う、遭遇する",
+    "translation": "遭遇する",
+    "example": "We encountered many difficulties during the trip.",
+    "exampleTranslation": "私たちは旅の途中で多くの困難に遭遇した。"
+  },
+  {
+    "id": "enemy",
+    "term": "enemy",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "敵",
+    "translation": "敵",
+    "example": "They were enemies during the war, but now they are friends.",
+    "exampleTranslation": "戦時中は敵同士だったが、今では友人同士だ。"
+  },
+  {
+    "id": "enforce",
+    "term": "enforce",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "（法律などを）施行する、強制する",
+    "translation": "施行する",
+    "example": "The police enforce traffic laws strictly.",
+    "exampleTranslation": "警察は交通法規を厳しく施行している。"
+  },
+  {
+    "id": "engage",
+    "term": "engage",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "従事する、関与する",
+    "translation": "関与する",
+    "example": "Many students engage in volunteer activities.",
+    "exampleTranslation": "多くの学生がボランティア活動に従事している。"
+  },
+  {
+    "id": "engine",
+    "term": "engine",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "エンジン、機関",
+    "translation": "エンジン",
+    "example": "The car has a powerful engine.",
+    "exampleTranslation": "その車は強力なエンジンを搭載している。"
+  },
+  {
+    "id": "engineer",
+    "term": "engineer",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "技術者、エンジニア",
+    "translation": "技術者",
+    "example": "She works as a software engineer.",
+    "exampleTranslation": "彼女はソフトウェアエンジニアとして働いている。"
+  },
+  {
+    "id": "enhance",
+    "term": "enhance",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "高める、向上させる",
+    "translation": "高める",
+    "example": "Reading books enhances your vocabulary.",
+    "exampleTranslation": "読書は語彙力を高めてくれる。"
+  },
+  {
+    "id": "enormous",
+    "term": "enormous",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "巨大な、莫大な",
+    "translation": "莫大な",
+    "example": "An enormous amount of money was spent on the project.",
+    "exampleTranslation": "その計画には莫大なお金が使われた。"
+  },
+  {
+    "id": "ensure",
+    "term": "ensure",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "確実にする、保証する",
+    "translation": "確実にする",
+    "example": "Please ensure that all the doors are locked.",
+    "exampleTranslation": "すべてのドアに鍵がかかっていることを確認してください。"
+  },
+  {
+    "id": "enterprise",
+    "term": "enterprise",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "企業、事業",
+    "translation": "事業",
+    "example": "He started his own enterprise at the age of 25.",
+    "exampleTranslation": "彼は25歳で自分の事業を始めた。"
+  },
+  {
+    "id": "entertainment",
+    "term": "entertainment",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "娯楽",
+    "translation": "娯楽",
+    "example": "Television is still a popular form of entertainment.",
+    "exampleTranslation": "テレビは今でも人気のある娯楽である。"
+  },
+  {
+    "id": "enthusiasm",
+    "term": "enthusiasm",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "熱意、熱中",
+    "translation": "熱意",
+    "example": "She showed great enthusiasm for the new project.",
+    "exampleTranslation": "彼女は新しい企画に大きな熱意を示した。"
+  },
+  {
+    "id": "entire",
+    "term": "entire",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "全体の、全部の",
+    "translation": "全体の",
+    "example": "It rained during the entire trip.",
+    "exampleTranslation": "旅の間ずっと雨だった。"
+  },
+  {
+    "id": "entrance",
+    "term": "entrance",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "入口、入学",
+    "translation": "入口",
+    "example": "Many students are preparing for entrance exams.",
+    "exampleTranslation": "多くの生徒が入学試験の準備をしている。"
+  },
+  {
+    "id": "entry",
+    "term": "entry",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "入場、参加；記入",
+    "translation": "入場",
+    "example": "Entry to the museum is free for students.",
+    "exampleTranslation": "その博物館は学生は入場無料である。"
+  },
+  {
+    "id": "episode",
+    "term": "episode",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "出来事、エピソード",
+    "translation": "出来事",
+    "example": "This episode completely changed his life.",
+    "exampleTranslation": "この出来事は彼の人生を完全に変えた。"
+  },
+  {
+    "id": "equal",
+    "term": "equal",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "等しい、平等な",
+    "translation": "等しい",
+    "example": "All citizens are equal under the law.",
+    "exampleTranslation": "すべての市民は法の下で平等である。"
+  },
+  {
+    "id": "equipment",
+    "term": "equipment",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "設備、装備",
+    "translation": "設備",
+    "example": "The laboratory has the latest equipment.",
+    "exampleTranslation": "その実験室には最新の設備がある。"
+  },
+  {
+    "id": "era",
+    "term": "era",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "時代",
+    "translation": "時代",
+    "example": "We are living in the era of the Internet.",
+    "exampleTranslation": "私たちはインターネットの時代に生きている。"
+  },
+  {
+    "id": "error",
+    "term": "error",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "誤り、間違い",
+    "translation": "誤り",
+    "example": "There are several errors in this report.",
+    "exampleTranslation": "この報告書にはいくつか誤りがある。"
+  },
+  {
+    "id": "escape",
+    "term": "escape",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "逃げる、逃れる",
+    "translation": "逃げる",
+    "example": "The bird escaped from its cage.",
+    "exampleTranslation": "その鳥はかごから逃げ出した。"
+  },
+  {
+    "id": "especially",
+    "term": "especially",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "特に",
+    "translation": "特に",
+    "example": "I love fruit, especially oranges.",
+    "exampleTranslation": "私は果物が大好きで、特にオレンジが好きだ。"
+  },
+  {
+    "id": "essay",
+    "term": "essay",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "随筆、作文",
+    "translation": "作文",
+    "example": "She wrote an essay about her hometown.",
+    "exampleTranslation": "彼女は自分の故郷についての作文を書いた。"
+  },
+  {
+    "id": "essential",
+    "term": "essential",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "不可欠な、本質的な",
+    "translation": "不可欠な",
+    "example": "Sleep is essential for a healthy life.",
+    "exampleTranslation": "睡眠は健康的な生活に不可欠である。"
+  },
+  {
+    "id": "establish",
+    "term": "establish",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "設立する、確立する",
+    "translation": "設立する",
+    "example": "The school was established in 1900.",
+    "exampleTranslation": "その学校は1900年に設立された。"
+  },
+  {
+    "id": "estimate",
+    "term": "estimate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "見積もる、推定する",
+    "translation": "推定する",
+    "example": "Experts estimate that the population will decline.",
+    "exampleTranslation": "専門家は人口が減少すると推定している。"
+  },
+  {
+    "id": "evaluate",
+    "term": "evaluate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "評価する",
+    "translation": "評価する",
+    "example": "Teachers evaluate students in various ways.",
+    "exampleTranslation": "教師はさまざまな方法で生徒を評価する。"
+  },
+  {
+    "id": "event",
+    "term": "event",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "出来事、行事",
+    "translation": "出来事",
+    "example": "The sports day is a big event at our school.",
+    "exampleTranslation": "体育祭は私たちの学校の大きな行事だ。"
+  },
+  {
+    "id": "eventually",
+    "term": "eventually",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "結局は、ついに",
+    "translation": "ついに",
+    "example": "After years of practice, he eventually became a professional pianist.",
+    "exampleTranslation": "何年もの練習の末、彼はついにプロのピアニストになった。"
+  },
+  {
+    "id": "evil",
+    "term": "evil",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "悪い、邪悪な；悪",
+    "translation": "悪",
+    "example": "In the story, the hero fights against evil.",
+    "exampleTranslation": "その物語では、主人公が悪と戦う。"
+  },
+  {
+    "id": "exact",
+    "term": "exact",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "正確な",
+    "translation": "正確な",
+    "example": "Tell me the exact time of the meeting.",
+    "exampleTranslation": "会議の正確な時刻を教えてください。"
+  },
+  {
+    "id": "exactly",
+    "term": "exactly",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "正確に、ちょうど",
+    "translation": "ちょうど",
+    "example": "The train arrived at exactly nine o'clock.",
+    "exampleTranslation": "その列車はちょうど9時に到着した。"
+  },
+  {
+    "id": "examination",
+    "term": "examination",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "試験、検査",
+    "translation": "試験",
+    "example": "He passed the entrance examination.",
+    "exampleTranslation": "彼は入学試験に合格した。"
+  },
+  {
+    "id": "examine",
+    "term": "examine",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "調べる、診察する",
+    "translation": "調べる",
+    "example": "The doctor examined the patient carefully.",
+    "exampleTranslation": "医者はその患者を注意深く診察した。"
+  },
+  {
+    "id": "exceed",
+    "term": "exceed",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "超える",
+    "translation": "超える",
+    "example": "The temperature exceeded 35 degrees yesterday.",
+    "exampleTranslation": "昨日、気温は35度を超えた。"
+  },
+  {
+    "id": "except",
+    "term": "except",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "〜を除いて",
+    "translation": "除いて",
+    "example": "Everyone was present except John.",
+    "exampleTranslation": "ジョンを除いて全員が出席した。"
+  },
+  {
+    "id": "exchange",
+    "term": "exchange",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "交換する、両替する",
+    "translation": "交換",
+    "example": "We exchanged email addresses with each other.",
+    "exampleTranslation": "私たちは互いにメールアドレスを交換した。"
+  },
+  {
+    "id": "excite",
+    "term": "excite",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "興奮させる",
+    "translation": "興奮させる",
+    "example": "The news excited all the fans.",
+    "exampleTranslation": "その知らせはファン全員を興奮させた。"
+  },
+  {
+    "id": "excuse",
+    "term": "excuse",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "言い訳；許す",
+    "translation": "言い訳",
+    "example": "Please don't make excuses for being late.",
+    "exampleTranslation": "遅刻の言い訳をしないでください。"
+  },
+  {
+    "id": "exercise",
+    "term": "exercise",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "運動、練習；行使する",
+    "translation": "運動",
+    "example": "Daily exercise keeps you healthy.",
+    "exampleTranslation": "毎日の運動は健康を保ってくれる。"
+  },
+  {
+    "id": "exhibit",
+    "term": "exhibit",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "展示する",
+    "translation": "展示する",
+    "example": "Local artists will exhibit their paintings at the hall.",
+    "exampleTranslation": "地元の芸術家たちがそのホールで絵画を展示する。"
+  },
+  {
+    "id": "exist",
+    "term": "exist",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "存在する",
+    "translation": "存在する",
+    "example": "Does life exist on other planets?",
+    "exampleTranslation": "ほかの惑星に生命は存在するのだろうか。"
+  },
+  {
+    "id": "exit",
+    "term": "exit",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "出口；出る",
+    "translation": "出口",
+    "example": "In case of fire, please use the nearest exit.",
+    "exampleTranslation": "火事の場合は、最寄りの出口を使ってください。"
+  },
+  {
+    "id": "expect",
+    "term": "expect",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "期待する、予想する",
+    "translation": "期待する",
+    "example": "We expect the economy to improve next year.",
+    "exampleTranslation": "私たちは来年、景気が良くなると予想している。"
+  },
+  {
+    "id": "expense",
+    "term": "expense",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "費用、出費",
+    "translation": "費用",
+    "example": "Travel expenses are paid by the company.",
+    "exampleTranslation": "旅費は会社が負担する。"
+  },
+  {
+    "id": "expensive",
+    "term": "expensive",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "高価な",
+    "translation": "高価な",
+    "example": "This watch is too expensive for me to buy.",
+    "exampleTranslation": "この時計は高すぎて私には買えない。"
+  },
+  {
+    "id": "experience",
+    "term": "experience",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "経験",
+    "translation": "経験",
+    "example": "Studying abroad was a valuable experience for her.",
+    "exampleTranslation": "留学は彼女にとって貴重な経験だった。"
+  },
+  {
+    "id": "experiment",
+    "term": "experiment",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "実験",
+    "translation": "実験",
+    "example": "We did an interesting experiment in science class.",
+    "exampleTranslation": "私たちは理科の授業で面白い実験をした。"
+  },
+  {
+    "id": "expert",
+    "term": "expert",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "専門家",
+    "translation": "専門家",
+    "example": "He is an expert on Japanese history.",
+    "exampleTranslation": "彼は日本史の専門家だ。"
+  },
+  {
+    "id": "explode",
+    "term": "explode",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "爆発する",
+    "translation": "爆発する",
+    "example": "The bomb exploded in the middle of the city.",
+    "exampleTranslation": "その爆弾は街の真ん中で爆発した。"
+  },
+  {
+    "id": "explore",
+    "term": "explore",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "探検する、探索する",
+    "translation": "探検する",
+    "example": "They explored the cave with flashlights.",
+    "exampleTranslation": "彼らは懐中電灯を持って洞窟を探検した。"
+  },
+  {
+    "id": "export",
+    "term": "export",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "輸出する、輸出",
+    "translation": "輸出",
+    "example": "Japan exports cars to many countries.",
+    "exampleTranslation": "日本は多くの国々に自動車を輸出している。"
+  },
+  {
+    "id": "expose",
+    "term": "expose",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "さらす、暴露する",
+    "translation": "さらす",
+    "example": "Don't expose your skin to strong sunlight for too long.",
+    "exampleTranslation": "強い日光に肌を長時間さらしてはいけない。"
+  },
+  {
+    "id": "express",
+    "term": "express",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "表現する；急行の",
+    "translation": "表現する",
+    "example": "It is sometimes hard to express our feelings in words.",
+    "exampleTranslation": "気持ちを言葉で表すのが難しいことがある。"
+  },
+  {
+    "id": "extend",
+    "term": "extend",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "延長する、及ぶ",
+    "translation": "延長する",
+    "example": "The road extends for fifty kilometers.",
+    "exampleTranslation": "その道路は50キロメートルにわたって続いている。"
+  },
+  {
+    "id": "extent",
+    "term": "extent",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "程度、範囲",
+    "translation": "程度",
+    "example": "To some extent, I agree with you.",
+    "exampleTranslation": "ある程度まで、私はあなたに同意します。"
+  },
+  {
+    "id": "external",
+    "term": "external",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "外部の",
+    "translation": "外部の",
+    "example": "The external walls of the house are painted white.",
+    "exampleTranslation": "その家の外壁は白く塗られている。"
+  },
+  {
+    "id": "extra",
+    "term": "extra",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "余分の、追加の",
+    "translation": "余分の",
+    "example": "We need extra chairs for the party.",
+    "exampleTranslation": "パーティーのために椅子が余分に必要だ。"
+  },
+  {
+    "id": "extreme",
+    "term": "extreme",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "極端な、極度の",
+    "translation": "極端な",
+    "example": "Extreme weather is becoming more common around the world.",
+    "exampleTranslation": "極端な天候は世界中でより頻繁に見られるようになっている。"
+  },
+  {
+    "id": "facility",
+    "term": "facility",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "施設、設備",
+    "translation": "施設",
+    "example": "The new sports facility will open next spring.",
+    "exampleTranslation": "新しいスポーツ施設は来春オープンする。"
+  },
+  {
+    "id": "fact",
+    "term": "fact",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "事実",
+    "translation": "事実",
+    "example": "In fact, he was the first to arrive.",
+    "exampleTranslation": "実は、彼が最初に到着した。"
+  },
+  {
+    "id": "factor",
+    "term": "factor",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "要因、要素",
+    "translation": "要因",
+    "example": "Diet is an important factor in good health.",
+    "exampleTranslation": "食事は健康における重要な要因だ。"
+  },
+  {
+    "id": "factory",
+    "term": "factory",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "工場",
+    "translation": "工場",
+    "example": "My father works at a car factory.",
+    "exampleTranslation": "私の父は自動車工場で働いている。"
+  },
+  {
+    "id": "fail",
+    "term": "fail",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "失敗する、（試験に）落ちる",
+    "translation": "失敗する",
+    "example": "He failed the exam because he had not studied enough.",
+    "exampleTranslation": "彼は十分に勉強していなかったため、試験に落ちた。"
+  },
+  {
+    "id": "failure",
+    "term": "failure",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "失敗",
+    "translation": "失敗",
+    "example": "Failure teaches us important lessons.",
+    "exampleTranslation": "失敗は私たちに大切な教訓を教えてくれる。"
+  },
+  {
+    "id": "fair",
+    "term": "fair",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "公平な、公正な",
+    "translation": "公平な",
+    "example": "The teacher is fair to all the students.",
+    "exampleTranslation": "その先生はすべての生徒に対して公平だ。"
+  },
+  {
+    "id": "faith",
+    "term": "faith",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "信頼、信仰",
+    "translation": "信頼",
+    "example": "She has great faith in her team.",
+    "exampleTranslation": "彼女は自分のチームを強く信頼している。"
+  },
+  {
+    "id": "familiar",
+    "term": "familiar",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "よく知っている、親しい",
+    "translation": "よく知っている",
+    "example": "Are you familiar with this song?",
+    "exampleTranslation": "この歌をよく知っていますか。"
+  },
+  {
+    "id": "fancy",
+    "term": "fancy",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "豪華な、派手な；〜したい気分だ",
+    "translation": "豪華な",
+    "example": "They stayed at a fancy hotel in Paris.",
+    "exampleTranslation": "彼らはパリの高級ホテルに泊まった。"
+  },
+  {
+    "id": "fantastic",
+    "term": "fantastic",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "素晴らしい、すばらしい",
+    "translation": "素晴らしい",
+    "example": "We had a fantastic time at the beach.",
+    "exampleTranslation": "私たちはビーチで素晴らしい時間を過ごした。"
+  },
+  {
+    "id": "fare",
+    "term": "fare",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "運賃、料金",
+    "translation": "運賃",
+    "example": "How much is the fare to the airport?",
+    "exampleTranslation": "空港までの運賃はいくらですか。"
+  },
+  {
+    "id": "farm",
+    "term": "farm",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "農場、農家",
+    "translation": "農場",
+    "example": "My grandparents grow vegetables on their farm.",
+    "exampleTranslation": "私の祖父母は農場で野菜を育てている。"
+  },
+  {
+    "id": "fashion",
+    "term": "fashion",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "流行、ファッション",
+    "translation": "流行",
+    "example": "Fashion changes with every season.",
+    "exampleTranslation": "流行は季節ごとに変わる。"
+  },
+  {
+    "id": "fat",
+    "term": "fat",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "脂肪；太った",
+    "translation": "脂肪",
+    "example": "Eating too much fat is bad for your health.",
+    "exampleTranslation": "脂肪を摂りすぎることは健康に悪い。"
+  },
+  {
+    "id": "fate",
+    "term": "fate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "運命",
+    "translation": "運命",
+    "example": "No one knows what fate awaits him.",
+    "exampleTranslation": "彼にどんな運命が待ち受けているかは誰にも分からない。"
+  },
+  {
+    "id": "fault",
+    "term": "fault",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "責任、欠点",
+    "translation": "責任",
+    "example": "It was not her fault that the train was delayed.",
+    "exampleTranslation": "電車が遅れたのは彼女の責任ではなかった。"
+  },
+  {
+    "id": "favor",
+    "term": "favor",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "親切な行為、お願い；支持する",
+    "translation": "親切",
+    "example": "Could you do me a favor?",
+    "exampleTranslation": "お願いを聞いていただけますか。"
+  },
+  {
+    "id": "fear",
+    "term": "fear",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "恐怖；恐れる",
+    "translation": "恐怖",
+    "example": "She has a fear of high places.",
+    "exampleTranslation": "彼女は高い場所が怖い。"
+  },
+  {
+    "id": "feature",
+    "term": "feature",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "特徴",
+    "translation": "特徴",
+    "example": "The main feature of this phone is its long battery life.",
+    "exampleTranslation": "この電話の主な特徴はバッテリーが長持ちすることだ。"
+  },
+  {
+    "id": "fee",
+    "term": "fee",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "料金、手数料",
+    "translation": "料金",
+    "example": "There is no entrance fee for children under twelve.",
+    "exampleTranslation": "12歳未満の子どもには入場料がかからない。"
+  },
+  {
+    "id": "feed",
+    "term": "feed",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "食べ物を与える、養う",
+    "translation": "食べさせる",
+    "example": "She feeds her cat twice a day.",
+    "exampleTranslation": "彼女は猫に1日2回餌をやっている。"
+  },
+  {
+    "id": "fellow",
+    "term": "fellow",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "仲間、同僚",
+    "translation": "仲間",
+    "example": "He is respected by his fellow workers.",
+    "exampleTranslation": "彼は同僚たちから尊敬されている。"
+  },
+  {
+    "id": "female",
+    "term": "female",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "女性の、雌の",
+    "translation": "女性の",
+    "example": "The number of female doctors is increasing.",
+    "exampleTranslation": "女性医師の数が増えている。"
+  },
+  {
+    "id": "fence",
+    "term": "fence",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "柵、フェンス",
+    "translation": "柵",
+    "example": "A wooden fence surrounds the garden.",
+    "exampleTranslation": "木の柵がその庭を取り囲んでいる。"
+  },
+  {
+    "id": "fever",
+    "term": "fever",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "熱、発熱",
+    "translation": "熱",
+    "example": "He stayed home because he had a fever.",
+    "exampleTranslation": "彼は熱があったので家にいた。"
+  },
+  {
+    "id": "few",
+    "term": "few",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "少ない、少数の",
+    "translation": "少ない",
+    "example": "Only a few people attended the meeting.",
+    "exampleTranslation": "その会議に出席した人はほんの数人だけだった。"
+  },
+  {
+    "id": "fiction",
+    "term": "fiction",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "小説、フィクション",
+    "translation": "小説",
+    "example": "She prefers fiction to history books.",
+    "exampleTranslation": "彼女は歴史の本より小説を好む。"
+  },
+  {
+    "id": "field",
+    "term": "field",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "野原、分野",
+    "translation": "分野",
+    "example": "He is a leading expert in the field of biology.",
+    "exampleTranslation": "彼は生物学の分野の第一人者だ。"
+  },
+  {
+    "id": "fierce",
+    "term": "fierce",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "激しい、猛烈な",
+    "translation": "激しい",
+    "example": "A fierce wind blew all night long.",
+    "exampleTranslation": "一晩中、激しい風が吹いた。"
+  },
+  {
+    "id": "figure",
+    "term": "figure",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "姿、数値；理解する（figure out）",
+    "translation": "姿",
+    "example": "I couldn't figure out how to solve the problem.",
+    "exampleTranslation": "その問題の解き方がどうしても分からなかった。"
+  },
+  {
+    "id": "file",
+    "term": "file",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "ファイル、書類",
+    "translation": "ファイル",
+    "example": "Please save the file on your computer.",
+    "exampleTranslation": "そのファイルをコンピュータに保存してください。"
+  },
+  {
+    "id": "fill",
+    "term": "fill",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "満たす、いっぱいにする",
+    "translation": "満たす",
+    "example": "She filled the bottle with water.",
+    "exampleTranslation": "彼女はその瓶を水で満たした。"
+  },
+  {
+    "id": "film",
+    "term": "film",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "映画、フィルム",
+    "translation": "映画",
+    "example": "This film is based on a true story.",
+    "exampleTranslation": "この映画は実話に基づいている。"
+  },
+  {
+    "id": "final",
+    "term": "final",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "最後の、最終の",
+    "translation": "最終の",
+    "example": "This is my final decision.",
+    "exampleTranslation": "これが私の最終的な決定だ。"
+  },
+  {
+    "id": "finance",
+    "term": "finance",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "財政、金融",
+    "translation": "金融",
+    "example": "He is studying finance at university.",
+    "exampleTranslation": "彼は大学で金融を学んでいる。"
+  },
+  {
+    "id": "financial",
+    "term": "financial",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "財政の、金融の",
+    "translation": "財政の",
+    "example": "The company is in financial trouble.",
+    "exampleTranslation": "その会社は財政的な問題を抱えている。"
+  },
+  {
+    "id": "finger",
+    "term": "finger",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "指",
+    "translation": "指",
+    "example": "She cut her finger while cooking.",
+    "exampleTranslation": "彼女は料理中に指を切った。"
+  },
+  {
+    "id": "firm",
+    "term": "firm",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "会社；堅い、断固とした",
+    "translation": "会社",
+    "example": "He works for a law firm in Tokyo.",
+    "exampleTranslation": "彼は東京の法律事務所で働いている。"
+  },
+  {
+    "id": "fit",
+    "term": "fit",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "合う、適合する；健康な",
+    "translation": "合う",
+    "example": "These shoes fit me perfectly.",
+    "exampleTranslation": "この靴は私にぴったり合う。"
+  },
+  {
+    "id": "fix",
+    "term": "fix",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "直す、修理する",
+    "translation": "直す",
+    "example": "Can you fix my bicycle?",
+    "exampleTranslation": "私の自転車を直してくれますか。"
+  },
+  {
+    "id": "flag",
+    "term": "flag",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "旗",
+    "translation": "旗",
+    "example": "The flag of Japan has a red circle in the center.",
+    "exampleTranslation": "日本の旗は中央に赤い円がある。"
+  },
+  {
+    "id": "flame",
+    "term": "flame",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "炎",
+    "translation": "炎",
+    "example": "The candle's flame was blown out by the wind.",
+    "exampleTranslation": "ろうそくの炎は風で消えた。"
+  },
+  {
+    "id": "flash",
+    "term": "flash",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "閃光；ひらめく",
+    "translation": "閃光",
+    "example": "A flash of lightning lit up the sky.",
+    "exampleTranslation": "稲妻の閃光が空を明るく照らした。"
+  },
+  {
+    "id": "flat",
+    "term": "flat",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "平らな",
+    "translation": "平らな",
+    "example": "The ground here is flat and good for playing soccer.",
+    "exampleTranslation": "ここの地面は平らで、サッカーをするのに適している。"
+  },
+  {
+    "id": "flavor",
+    "term": "flavor",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "風味、味",
+    "translation": "風味",
+    "example": "This soup has a rich flavor.",
+    "exampleTranslation": "このスープは濃厚な味わいがある。"
+  },
+  {
+    "id": "flight",
+    "term": "flight",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "飛行、（飛行機の）便",
+    "translation": "便",
+    "example": "Our flight to Okinawa was delayed by the typhoon.",
+    "exampleTranslation": "沖縄行きの便は台風のために遅れた。"
+  },
+  {
+    "id": "float",
+    "term": "float",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "浮く、浮かぶ",
+    "translation": "浮く",
+    "example": "Wood floats on water.",
+    "exampleTranslation": "木は水に浮く。"
+  },
+  {
+    "id": "flood",
+    "term": "flood",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "洪水",
+    "translation": "洪水",
+    "example": "Heavy rain caused a flood in the town.",
+    "exampleTranslation": "大雨がその町に洪水を引き起こした。"
+  },
+  {
+    "id": "fluent",
+    "term": "fluent",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "流暢な",
+    "translation": "流暢な",
+    "example": "She speaks fluent English.",
+    "exampleTranslation": "彼女は流暢な英語を話す。"
+  },
+  {
+    "id": "fluid",
+    "term": "fluid",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "流体、液体",
+    "translation": "液体",
+    "example": "Drink plenty of fluids when you have a fever.",
+    "exampleTranslation": "熱があるときは水分をたくさん摂りなさい。"
+  },
+  {
+    "id": "fog",
+    "term": "fog",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "霧",
+    "translation": "霧",
+    "example": "Thick fog covered the city this morning.",
+    "exampleTranslation": "今朝、濃い霧が街を覆った。"
+  },
+  {
+    "id": "fold",
+    "term": "fold",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "折る、折りたたむ",
+    "translation": "折る",
+    "example": "Please fold the paper in half.",
+    "exampleTranslation": "その紙を半分に折ってください。"
+  },
+  {
+    "id": "folk",
+    "term": "folk",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "人々、民間の",
+    "translation": "民間の",
+    "example": "Folk songs tell stories of the past.",
+    "exampleTranslation": "民謡は昔の物語を伝えている。"
+  },
+  {
+    "id": "fool",
+    "term": "fool",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "愚か者；愚かな",
+    "translation": "愚か者",
+    "example": "Don't be a fool and risk your life.",
+    "exampleTranslation": "命を危険にさらすような愚かな真似をしてはいけない。"
+  },
+  {
+    "id": "forbid",
+    "term": "forbid",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "禁止する",
+    "translation": "禁止する",
+    "example": "Smoking is forbidden in this building.",
+    "exampleTranslation": "この建物では喫煙が禁止されている。"
+  },
+  {
+    "id": "force",
+    "term": "force",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "力；強制する",
+    "translation": "力",
+    "example": "He was forced to give up his dream.",
+    "exampleTranslation": "彼は夢を諦めざるを得なかった。"
+  },
+  {
+    "id": "forecast",
+    "term": "forecast",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "予報、予測",
+    "translation": "予報",
+    "example": "The weather forecast says it will rain tomorrow.",
+    "exampleTranslation": "天気予報によると、明日は雨だそうだ。"
+  },
+  {
+    "id": "forest",
+    "term": "forest",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "森、森林",
+    "translation": "森",
+    "example": "Many wild animals live in this forest.",
+    "exampleTranslation": "この森には多くの野生動物が住んでいる。"
+  },
+  {
+    "id": "forever",
+    "term": "forever",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "永遠に、いつまでも",
+    "translation": "永遠に",
+    "example": "I will remember this day forever.",
+    "exampleTranslation": "私はこの日を永遠に忘れないだろう。"
+  },
+  {
+    "id": "forgive",
+    "term": "forgive",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "許す",
+    "translation": "許す",
+    "example": "Please forgive me for being late.",
+    "exampleTranslation": "遅れたことを許してください。"
+  },
+  {
+    "id": "fork",
+    "term": "fork",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "フォーク、分岐点",
+    "translation": "フォーク",
+    "example": "Use a fork to eat the pasta.",
+    "exampleTranslation": "パスタを食べるにはフォークを使いなさい。"
+  },
+  {
+    "id": "form",
+    "term": "form",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "形、形態；形成する",
+    "translation": "形",
+    "example": "Ice is a form of water.",
+    "exampleTranslation": "氷は水の一つの形態である。"
+  },
+  {
+    "id": "formal",
+    "term": "formal",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "正式な、形式的な",
+    "translation": "正式な",
+    "example": "He wore a formal suit to the ceremony.",
+    "exampleTranslation": "彼は式典に正装のスーツを着て行った。"
+  },
+  {
+    "id": "former",
+    "term": "former",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "前の、以前の；前者",
+    "translation": "前の",
+    "example": "The former president gave a speech at the university.",
+    "exampleTranslation": "前大統領がその大学で演説を行った。"
+  },
+  {
+    "id": "fortunate",
+    "term": "fortunate",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "幸運な",
+    "translation": "幸運な",
+    "example": "I was fortunate to meet such a good teacher.",
+    "exampleTranslation": "あんなに良い先生に出会えて、私は幸運だった。"
+  },
+  {
+    "id": "fortune",
+    "term": "fortune",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "富、財産；運",
+    "translation": "財産",
+    "example": "He made a fortune in business.",
+    "exampleTranslation": "彼は事業で財産を築いた。"
+  },
+  {
+    "id": "forward",
+    "term": "forward",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "前へ、前方に",
+    "translation": "前へ",
+    "example": "Please step forward.",
+    "exampleTranslation": "前に進んでください。"
+  },
+  {
+    "id": "foundation",
+    "term": "foundation",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "基礎、土台；財団",
+    "translation": "土台",
+    "example": "Trust is the foundation of any relationship.",
+    "exampleTranslation": "信頼はあらゆる人間関係の土台である。"
+  },
+  {
+    "id": "frame",
+    "term": "frame",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "枠、額縁",
+    "translation": "枠",
+    "example": "She put the photo in a wooden frame.",
+    "exampleTranslation": "彼女はその写真を木の額縁に入れた。"
+  },
+  {
+    "id": "freedom",
+    "term": "freedom",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "自由",
+    "translation": "自由",
+    "example": "Freedom of speech is a basic human right.",
+    "exampleTranslation": "言論の自由は基本的な人権である。"
+  },
+  {
+    "id": "freeze",
+    "term": "freeze",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "凍る、凍らせる",
+    "translation": "凍る",
+    "example": "The water in the pipes froze last night.",
+    "exampleTranslation": "昨夜、配管の中の水が凍った。"
+  },
+  {
+    "id": "frequent",
+    "term": "frequent",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "頻繁な",
+    "translation": "頻繁な",
+    "example": "There are frequent trains between the two cities.",
+    "exampleTranslation": "その2都市間には頻繁に電車が運行している。"
+  },
+  {
+    "id": "fresh",
+    "term": "fresh",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "新鮮な",
+    "translation": "新鮮な",
+    "example": "We bought fresh vegetables at the market.",
+    "exampleTranslation": "私たちは市場で新鮮な野菜を買った。"
+  },
+  {
+    "id": "fuel",
+    "term": "fuel",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "燃料",
+    "translation": "燃料",
+    "example": "The airplane ran out of fuel during the flight.",
+    "exampleTranslation": "その飛行機は飛行中に燃料が尽きた。"
+  },
+  {
+    "id": "function",
+    "term": "function",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "機能、働き",
+    "translation": "機能",
+    "example": "The function of the heart is to pump blood.",
+    "exampleTranslation": "心臓の働きは血液を送り出すことだ。"
+  },
+  {
+    "id": "fund",
+    "term": "fund",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "資金、ファンド",
+    "translation": "資金",
+    "example": "They collected funds to build a new library.",
+    "exampleTranslation": "彼らは新しい図書館を建てるための資金を集めた。"
+  },
+  {
+    "id": "fundamental",
+    "term": "fundamental",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "基本的な、根本的な",
+    "translation": "基本的な",
+    "example": "Reading is a fundamental skill for learning.",
+    "exampleTranslation": "読むことは、学びにおける基本的な技能だ。"
+  },
+  {
+    "id": "furniture",
+    "term": "furniture",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "家具",
+    "translation": "家具",
+    "example": "We need new furniture for the living room.",
+    "exampleTranslation": "リビングには新しい家具が必要だ。"
+  },
+  {
+    "id": "further",
+    "term": "further",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "さらに（遠くへ）、それ以上の",
+    "translation": "さらに",
+    "example": "For further information, please contact us by email.",
+    "exampleTranslation": "さらに詳しい情報については、メールでお問い合わせください。"
   }
 ]
