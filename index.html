@@ -73,6 +73,14 @@ label.f{display:block; font-size:.86rem; font-weight:700; margin:10px 0 4px;}
 .stat-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; text-align:center;}
 .stat-grid .n{font-size:1.5rem; font-weight:800; color:var(--green-d);}
 .stat-grid .l{font-size:.78rem; color:#678;}
+.sound-row{display:flex; justify-content:flex-end; margin-bottom:8px;}
+.sound-row button{border:1.6px solid var(--line); background:#fff; border-radius:999px; padding:6px 14px; font:inherit; font-size:.86rem; cursor:pointer;}
+.mark{display:inline-flex; align-items:center; justify-content:center; width:34px; height:34px; border-radius:50%;
+  font-weight:800; font-size:1.15rem; margin-right:9px; vertical-align:-9px; animation:pop .35s ease;}
+.mark.ok{background:#3d9d63; color:#fff;} .mark.ng{background:#e39a7d; color:#fff;}
+@keyframes pop{0%{transform:scale(.3);} 60%{transform:scale(1.25);} 100%{transform:scale(1);}}
+.choice.pulse{animation:pulse .4s ease;}
+@keyframes pulse{0%{transform:scale(1);} 40%{transform:scale(1.03);} 100%{transform:scale(1);}}
 </style>
 </head>
 <body>
@@ -81,6 +89,7 @@ label.f{display:block; font-size:.86rem; font-weight:700; margin:10px 0 4px;}
   <p>物語・音声・間隔反復で、入試の英単語を「使える英語」へ</p>
 </header>
 <main>
+<div class="sound-row"><button id="soundBtn" type="button">🔔 音：オン</button></div>
 <nav class="tabs" id="tabs">
   <button data-tab="story" class="on">📖 ストーリー</button>
   <button data-tab="review">🃏 今日の復習</button>
@@ -214,6 +223,37 @@ function speak(text){
   }catch(e){}
 }
 document.getElementById('stopSpeak').addEventListener('click', ()=>{ try{ speechSynthesis.cancel(); }catch(e){} });
+/* ============ 正解・不正解の音（Web Audio合成、控えめな音量） ============ */
+let AC = null;
+function soundOn(){ return (load(LS.set, {}).sound !== false); }
+function tone(freq, start, dur, type, vol){
+  const t = AC.currentTime + start;
+  const o = AC.createOscillator(), g = AC.createGain();
+  o.type = type || 'sine'; o.frequency.value = freq;
+  g.gain.setValueAtTime(0.0001, t);
+  g.gain.exponentialRampToValueAtTime(vol, t + 0.02);
+  g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+  o.connect(g); g.connect(AC.destination);
+  o.start(t); o.stop(t + dur + 0.05);
+}
+function playResult(ok){
+  if(!soundOn()) return;
+  try{
+    if(!AC) AC = new (window.AudioContext || window.webkitAudioContext)();
+    if(AC.state === 'suspended') AC.resume();
+    window.__sndCount = (window.__sndCount || 0) + 1;
+    if(ok){ tone(1318.5, 0, .35, 'sine', .10); tone(1760, .09, .45, 'sine', .08); }
+    else{ tone(233.1, 0, .3, 'triangle', .09); tone(196, .05, .38, 'triangle', .07); }
+  }catch(e){}
+}
+function renderSoundBtn(){
+  document.getElementById('soundBtn').textContent = soundOn() ? '🔔 音：オン' : '🔕 音：オフ';
+}
+document.getElementById('soundBtn').addEventListener('click', ()=>{
+  const s = load(LS.set, {}); s.sound = !soundOn(); save(LS.set, s); renderSoundBtn();
+  if(soundOn()) playResult(true);
+});
+renderSoundBtn();
 /* ============ タブ ============ */
 document.querySelectorAll('#tabs button').forEach(b => b.addEventListener('click', ()=>{
   document.querySelectorAll('#tabs button').forEach(x => x.classList.toggle('on', x === b));
@@ -320,12 +360,13 @@ function renderSQ(){
     SQ.review.push({ v: q, ok });
     box.querySelectorAll('.choice').forEach(x => {
       x.disabled = true;
-      if(x.dataset.id === q.id) x.classList.add('right');
+      if(x.dataset.id === q.id) x.classList.add('right', 'pulse');
       else if(x.dataset.id === SQ.picked) x.classList.add('wrong');
     });
+    playResult(ok);
     const fb = document.getElementById('sqFb');
     fb.className = 'feedback ' + (ok ? 'ok' : 'ng');
-    fb.innerHTML = '<b>' + (ok ? '正解です！' : '正解は「' + q.meaning + '」です。') + '</b><div>' + q.example + '</div><div class="small">' + q.exampleTranslation + '</div>';
+    fb.innerHTML = '<span class="mark ' + (ok ? 'ok' : 'ng') + '">' + (ok ? '○' : '✕') + '</span><b>' + (ok ? '正解です！' : '正解は「' + q.meaning + '」です。') + '</b><div>' + q.example + '</div><div class="small">' + q.exampleTranslation + '</div>';
     document.getElementById('sqNext').disabled = false;
     markStudied();
   }));
@@ -441,10 +482,11 @@ function renderCheck(){
     if(CK.submitted) return; CK.submitted = true;
     const ok = b.dataset.id === q.id; if(ok) CK.score++;
     box.querySelectorAll('.choice').forEach(x => { x.disabled = true;
-      if(x.dataset.id === q.id) x.classList.add('right'); else if(x === b) x.classList.add('wrong'); });
+      if(x.dataset.id === q.id) x.classList.add('right', 'pulse'); else if(x === b) x.classList.add('wrong'); });
+    playResult(ok);
     const fb = document.getElementById('ckFb');
     fb.className = 'feedback ' + (ok ? 'ok' : 'ng');
-    fb.innerHTML = '<b>' + (ok ? '正解です！' : '正解は「' + q.meaning + '」です。') + '</b>';
+    fb.innerHTML = '<span class="mark ' + (ok ? 'ok' : 'ng') + '">' + (ok ? '○' : '✕') + '</span><b>' + (ok ? '正解です！' : '正解は「' + q.meaning + '」です。') + '</b>';
     document.getElementById('ckNext').disabled = false;
   }));
   document.getElementById('ckNext').addEventListener('click', ()=>{ CK.idx++; CK.submitted = false; renderCheck(); });
