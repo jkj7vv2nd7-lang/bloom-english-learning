@@ -1,0 +1,30 @@
+{
+  "name": "bloom-english",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "dev:3010": "next dev --port 3010",
+    "build": "next build",
+    "start": "next start",
+    "start:3010": "next start --port 3010",
+    "db:init": "tsx scripts/init-db.ts",
+    "db:seed": "tsx scripts/seed-db.ts",
+    "test": "node --import tsx --test scripts/spaced-repetition.test.ts"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5.9",
+    "tsx": "^4.20.6"
+  }
+}

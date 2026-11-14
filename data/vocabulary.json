@@ -1,0 +1,302 @@
+[
+  {
+    "id": "focus-on",
+    "term": "focus on",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "〜に集中する",
+    "translation": "集中する",
+    "example": "I need to focus on my homework.",
+    "exampleTranslation": "宿題に集中する必要があります。"
+  },
+  {
+    "id": "challenge",
+    "term": "challenge",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "挑戦、難題",
+    "translation": "挑戦",
+    "example": "Learning a new language is a fun challenge.",
+    "exampleTranslation": "新しい言語を学ぶことは楽しい挑戦です。"
+  },
+  {
+    "id": "develop",
+    "term": "develop",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "発達する、身につける",
+    "translation": "身につける",
+    "example": "Reading helps us develop new ideas.",
+    "exampleTranslation": "読書は新しい考えを育てるのに役立ちます。"
+  },
+  {
+    "id": "environment",
+    "term": "environment",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "環境",
+    "translation": "環境",
+    "example": "We should protect the natural environment.",
+    "exampleTranslation": "私たちは自然環境を守るべきです。"
+  },
+  {
+    "id": "support",
+    "term": "support",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "支える、応援する",
+    "translation": "応援する",
+    "example": "My family always supports my goals.",
+    "exampleTranslation": "家族はいつも私の目標を応援してくれます。"
+  },
+  {
+    "id": "improve",
+    "term": "improve",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "改善する、上達する",
+    "translation": "上達する",
+    "example": "Practice will improve your English.",
+    "exampleTranslation": "練習すれば英語が上達します。"
+  },
+  {
+    "id": "discover",
+    "term": "discover",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "発見する",
+    "translation": "発見する",
+    "example": "We discovered a quiet path in the woods.",
+    "exampleTranslation": "私たちは森の中で静かな小道を見つけました。"
+  },
+  {
+    "id": "curious",
+    "term": "curious",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "好奇心が強い、不思議に思う",
+    "translation": "好奇心が強い",
+    "example": "I am curious about the stars.",
+    "exampleTranslation": "私は星に興味があります。"
+  },
+  {
+    "id": "prepare-for",
+    "term": "prepare for",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "〜の準備をする",
+    "translation": "準備をする",
+    "example": "We prepared for the school festival.",
+    "exampleTranslation": "私たちは文化祭の準備をしました。"
+  },
+  {
+    "id": "invite",
+    "term": "invite",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "招待する",
+    "translation": "招待する",
+    "example": "Please invite your friends to the event.",
+    "exampleTranslation": "友達をその行事に招待してください。"
+  },
+  {
+    "id": "share",
+    "term": "share",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "共有する、分け合う",
+    "translation": "共有する",
+    "example": "We shared our ideas in class.",
+    "exampleTranslation": "私たちは授業で考えを共有しました。"
+  },
+  {
+    "id": "practice",
+    "term": "practice",
+    "level": "中学",
+    "importance": 3,
+    "meaning": "練習する、練習",
+    "translation": "練習する",
+    "example": "The team practices after school.",
+    "exampleTranslation": "そのチームは放課後に練習します。"
+  },
+  {
+    "id": "explain",
+    "term": "explain",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "説明する",
+    "translation": "説明する",
+    "example": "Can you explain the rules to me?",
+    "exampleTranslation": "私にルールを説明してくれますか。"
+  },
+  {
+    "id": "arrive",
+    "term": "arrive",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "到着する",
+    "translation": "到着する",
+    "example": "We arrived at the station early.",
+    "exampleTranslation": "私たちは早く駅に着きました。"
+  },
+  {
+    "id": "protect",
+    "term": "protect",
+    "level": "中学",
+    "importance": 2,
+    "meaning": "守る",
+    "translation": "守る",
+    "example": "We must protect wild animals.",
+    "exampleTranslation": "野生動物を守らなければなりません。"
+  },
+  {
+    "id": "absolute",
+    "term": "absolute",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "絶対的な、完全な",
+    "translation": "絶対的な",
+    "example": "There is no absolute answer to this question.",
+    "exampleTranslation": "この質問に絶対的な答えはありません。"
+  },
+  {
+    "id": "flexible",
+    "term": "flexible",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "柔軟な、融通のきく",
+    "translation": "柔軟な",
+    "example": "Our plan is flexible, so we can change it.",
+    "exampleTranslation": "私たちの計画は柔軟なので、変更できます。"
+  },
+  {
+    "id": "opportunity",
+    "term": "opportunity",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "機会、好機",
+    "translation": "機会",
+    "example": "This trip is a great opportunity to learn.",
+    "exampleTranslation": "この旅行は学ぶためのすばらしい機会です。"
+  },
+  {
+    "id": "communicate",
+    "term": "communicate",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "意思を伝え合う",
+    "translation": "伝え合う",
+    "example": "We communicate with our friends every day.",
+    "exampleTranslation": "私たちは毎日友達と意思を伝え合います。"
+  },
+  {
+    "id": "decision",
+    "term": "decision",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "決定、判断",
+    "translation": "決断",
+    "example": "It was a difficult decision to make.",
+    "exampleTranslation": "それは難しい決断でした。"
+  },
+  {
+    "id": "responsibility",
+    "term": "responsibility",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "責任",
+    "translation": "責任",
+    "example": "Taking care of the garden is my responsibility.",
+    "exampleTranslation": "庭の世話をするのは私の責任です。"
+  },
+  {
+    "id": "achieve",
+    "term": "achieve",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "達成する",
+    "translation": "達成する",
+    "example": "She worked hard to achieve her dream.",
+    "exampleTranslation": "彼女は夢を達成するために一生懸命努力しました。"
+  },
+  {
+    "id": "analyze",
+    "term": "analyze",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "分析する",
+    "translation": "分析する",
+    "example": "The students analyzed the results together.",
+    "exampleTranslation": "生徒たちは一緒に結果を分析しました。"
+  },
+  {
+    "id": "consider",
+    "term": "consider",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "よく考える、検討する",
+    "translation": "検討する",
+    "example": "We should consider every idea carefully.",
+    "exampleTranslation": "私たちは一つ一つの案を慎重に検討すべきです。"
+  },
+  {
+    "id": "contribute",
+    "term": "contribute",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "貢献する、寄付する",
+    "translation": "貢献する",
+    "example": "Everyone can contribute to the project.",
+    "exampleTranslation": "誰もがその計画に貢献できます。"
+  },
+  {
+    "id": "evidence",
+    "term": "evidence",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "証拠、根拠",
+    "translation": "根拠",
+    "example": "We need evidence to support our opinion.",
+    "exampleTranslation": "自分たちの意見を裏付ける根拠が必要です。"
+  },
+  {
+    "id": "expand",
+    "term": "expand",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "広げる、拡大する",
+    "translation": "広げる",
+    "example": "The club hopes to expand its activities.",
+    "exampleTranslation": "そのクラブは活動を広げたいと考えています。"
+  },
+  {
+    "id": "impact",
+    "term": "impact",
+    "level": "高校",
+    "importance": 3,
+    "meaning": "影響、影響を与える",
+    "translation": "影響",
+    "example": "Small actions can have a big impact.",
+    "exampleTranslation": "小さな行動が大きな影響を与えることがあります。"
+  },
+  {
+    "id": "maintain",
+    "term": "maintain",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "維持する、保つ",
+    "translation": "維持する",
+    "example": "It takes effort to maintain a healthy habit.",
+    "exampleTranslation": "健康的な習慣を維持するには努力が必要です。"
+  },
+  {
+    "id": "resource",
+    "term": "resource",
+    "level": "高校",
+    "importance": 2,
+    "meaning": "資源、資料",
+    "translation": "資源",
+    "example": "Water is an important natural resource.",
+    "exampleTranslation": "水は大切な天然資源です。"
+  }
+]

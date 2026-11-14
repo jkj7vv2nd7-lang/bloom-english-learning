@@ -1,0 +1,72 @@
+[
+  {
+    "id": "middle-garden",
+    "level": "中学",
+    "chapter": 1,
+    "title": "みんなの庭をつくろう",
+    "readingTime": "約2分で読めます",
+    "targetVocabularyIds": ["focus-on", "absolute", "flexible", "challenge", "opportunity", "develop", "communicate", "environment", "support", "improve", "decision", "responsibility", "achieve", "discover", "local", "borrow", "return", "carry", "message"],
+    "targetTerms": ["focus on", "absolute", "flexible", "challenge", "opportunity", "develop", "communicate", "environment", "support", "improve", "decision", "responsibility", "achieve", "discover", "local", "borrow", "return", "carry", "message"],
+    "paragraphs": [
+      "On Saturday morning, our class visited a small garden near the river. Our teacher asked us to focus on one simple question: how can we make this place better for everyone? At first, I thought there was an absolute answer, but my friend Hana had a more flexible idea. She suggested that we listen to the people who use the garden.",
+      "We met an older man who told us about a challenge: after heavy rain, the path became difficult to walk on. This was an opportunity to develop a useful plan and communicate with our neighbors. Some students wanted to plant flowers, while others cared more about the environment. We decided to support both ideas.",
+      "Working together helped us improve the path and make a decision about where to put new plants. Taking care of the garden became our responsibility. We sent a message to a local shop, which let us borrow tools; we promised to return them on Monday and had to carry the pots ourselves. A month later, we returned to discover that families were enjoying the space. We could achieve more than a cleaner garden by working together."
+    ]
+  },
+  {
+    "id": "middle-festival",
+    "level": "中学",
+    "chapter": 2,
+    "title": "文化祭への小さな旅",
+    "readingTime": "約2分で読めます",
+    "targetVocabularyIds": ["curious", "prepare-for", "invite", "share", "practice", "explain", "arrive", "journey", "protect", "collect", "spend", "choose", "healthy", "energy", "notice", "promise", "plan", "possible", "together", "waste"],
+    "targetTerms": ["curious", "prepare for", "invite", "share", "practice", "explain", "arrive", "journey", "protect", "collect", "spend", "choose", "healthy", "energy", "notice", "promise", "plan", "possible", "together", "waste"],
+    "paragraphs": [
+      "Our class wanted to prepare for the school festival with a project about food and nature. I was curious about how much food our town produced, so we planned a short journey to a farm. We hoped to arrive early and planned to invite a farmer to explain how he grew vegetables and worked to protect the soil.",
+      "We planned to spend the morning together in the fields. The farmer let us collect fallen leaves for compost. He showed us how to choose ripe vegetables and share the work. We had to carry boxes, so we drank water and ate a healthy lunch under a tree. We began to notice how carefully the farm used every part of each plant. The work gave us energy.",
+      "Back at school, we held a short practice for our presentation and made a plan for our festival stand. We made a promise not to waste food and used the vegetables to make soup. We wanted to explain that small choices can help the environment. It was possible because everyone took part, and we were happy to share what we had learned with our families."
+    ]
+  },
+  {
+    "id": "high-community",
+    "level": "高校",
+    "chapter": 1,
+    "title": "小さな行動が地域を変える",
+    "readingTime": "約2分で読めます",
+    "targetVocabularyIds": ["analyze", "consider", "contribute", "evidence", "expand", "impact", "maintain", "resource"],
+    "targetTerms": ["analyze", "consider", "contribute", "evidence", "expand", "impact", "maintain", "resource"],
+    "paragraphs": [
+      "When our school started a project to reduce food waste, we first needed to analyze what happened in the cafeteria. For one week, volunteers counted the meals students left unfinished. The numbers gave us evidence, but they did not explain everything. We decided to consider why students were throwing food away before choosing a solution.",
+      "We talked with students and cooks, and learned that serving sizes were sometimes too large. Our team suggested offering two portion sizes. Everyone could contribute: students chose what they could eat, and cooks helped us plan the menu. We also shared a short survey so other classes could take part.",
+      "The change had a positive impact. At the end of the month, we saw less food in the waste bins. We used the results as a resource for a presentation and hoped to expand the project to another school. It will take time to maintain this progress, so our club made a simple schedule for checking the results. The project taught us that careful questions and practical teamwork can turn a local concern into meaningful action."
+    ]
+  },
+  {
+    "id": "high-energy",
+    "level": "高校",
+    "chapter": 2,
+    "title": "学校を明るくするエネルギー調査",
+    "readingTime": "約2分で読めます",
+    "targetVocabularyIds": ["research", "suggest", "available", "reduce", "efficient", "volunteer", "encourage", "participate", "measure", "affect", "benefit", "require", "solution"],
+    "targetTerms": ["research", "suggest", "available", "reduce", "efficient", "volunteer", "encourage", "participate", "measure", "affect", "benefit", "require", "solution"],
+    "paragraphs": [
+      "Our science class began research on the electricity used in our school. We wanted to reduce waste, but first we had to measure how much power the lights used. A volunteer team checked each room after lessons and recorded accurate numbers. Their work showed that many lights stayed on in empty classrooms.",
+      "We asked Mika to suggest putting clear signs near the switches. Our teacher wanted to encourage every class to participate and asked students to share other ideas. Some rooms had efficient LED lights available, while others still used older lamps. We learned that changing all the lights would require money, so we looked for a practical solution we could start right away.",
+      "The signs reminded people to turn off lights, and the change began to affect our daily habits. Students could see the benefit in the next week's results: the school used less electricity after classes. We presented our research to the student council and suggested a gradual plan for replacing old lamps. The project showed that careful measurement and small actions can make a real difference."
+    ]
+  },
+  {
+    "id": "high-stories",
+    "level": "高校",
+    "chapter": 3,
+    "title": "世代をつなぐ町の物語",
+    "readingTime": "約2分で読めます",
+    "targetVocabularyIds": ["accurate", "create", "culture", "depend-on", "involve", "provide", "recognize", "significant", "perspective", "avoid", "consume", "generation"],
+    "targetTerms": ["accurate", "create", "culture", "depend on", "involve", "provide", "recognize", "significant", "perspective", "avoid", "consume", "generation"],
+    "paragraphs": [
+      "Our class wanted to create a digital map of local stories. We interviewed people from different generations about festivals, food, and changes in the town. To keep the information accurate, we checked dates and names with each speaker before adding them to the map.",
+      "The project will involve students, families, and the town library. Older residents can provide a perspective we had not heard before, while younger people help record and edit the interviews. We began to recognize how much our culture can depend on people sharing memories. One resident explained that a significant part of the summer festival was a song taught from one generation to the next.",
+      "We chose short recordings so visitors could learn while they consume less data and electricity. This helped us avoid wasting resources, even though each recording still used some power to store and play. The finished map did more than collect facts: it connected people and helped us understand the town's history. Each generation can add its own stories, so the project will continue to grow."
+    ]
+  }
+]
