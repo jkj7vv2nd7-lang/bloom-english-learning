@@ -171,7 +171,7 @@ label.f{display:block; font-size:.86rem; font-weight:700; margin:10px 0 4px;}
 </section>
 
 <footer class="small" style="text-align:center; margin-top:18px">
-  Bloom English（静的版） ― 記録はこの端末の中にだけ保存されます。<br>
+  Bloom English（静的版）v1.2 ― 記録はこの端末の中にだけ保存されます。<br>
   語彙の一部は CEFR-J Wordlist A1/A2 を参考に編集。発音表記は CMUdict 由来の米語IPAです。
 </footer>
 </main>
@@ -244,10 +244,11 @@ function playResult(ok){
     window.__sndCount = (window.__sndCount || 0) + 1;
     if(ok){ tone(1318.5, 0, .35, 'sine', .10); tone(1760, .09, .45, 'sine', .08); }
     else{
-      /* 不正解：iPhoneの小型スピーカーでも聞こえる高さ（約390Hz→約310Hzの下降）にし、
-         倍音を重ねて音量も正解音並みに。雰囲気は柔らかく残念な感じに保つ */
-      tone(392, 0, .26, 'triangle', .11); tone(784, 0, .2, 'sine', .05);
-      tone(311.1, .14, .4, 'triangle', .11); tone(622.3, .14, .32, 'sine', .05);
+      /* 不正解：聞こえることが実証済みの正解音と同じ音色・同じ音域（サイン波、1.3kHz帯）を使い、
+         上がる正解に対して「下がる」旋律にすることで残念な感じを出す。音量も正解と同じ */
+      tone(1318.5, 0, .3, 'sine', .10);
+      tone(1046.5, .13, .42, 'sine', .10);
+      tone(784, .28, .5, 'sine', .06);
     }
   }catch(e){}
 }
